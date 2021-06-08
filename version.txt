@@ -4,7 +4,7 @@
   "serverVersion": "1.0.45"
   },
   "telegram" :{
-  "telegramVresion" : "1.0.45",
+  "telegramVresion" : "1.0.46",
   "file" : "8"  
   }
 }
