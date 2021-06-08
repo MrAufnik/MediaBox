@@ -1,6 +1,6 @@
 {
   "update" :{
-  "server" :{
+  "servers" :{
   "serverVersion": "1.0.45"
   },
   "telegram" :{
