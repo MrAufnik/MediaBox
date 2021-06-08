@@ -1,7 +1,10 @@
 {
   "update" :{
   "servers" :{
-  "dropVersion": "1.0.45"
+  "drop" : {
+  "dropVersion": "1.0.45",
+  "file" : ""
+  }
   ,
   "telegram" :{
   "telegramVersion" : "1.0.46",
