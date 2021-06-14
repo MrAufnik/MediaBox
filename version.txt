@@ -2,12 +2,12 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.46",
+  "dropVersion": "1.0.45",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.46",
+  "telegramVersion" : "1.0.45",
   "file" : "8"  
   }
 }
