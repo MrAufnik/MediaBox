@@ -7,8 +7,8 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.47",
-  "file" : "13"  
+  "telegramVersion" : "1.0.48",
+  "file" : "14"  
   }
 }
 }
