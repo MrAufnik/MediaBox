@@ -15,7 +15,7 @@
 "new_version_message" : "<pre><strong>.ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה<br /></strong></pre>
 <p><u>מה חדש</u><u></u></p>
 <p>האח הגדול</p>
-<p>חפשו בטלגרם <a href="\&quot;https://t.me/MediaBoxIL\&quot;">MediaBoxIL@</a></p>"
+<p>חפשו בטלגרם <span style=\"color: #0000ff;\">MediaBoxIL@</span></p>"
 }
  , 
  "groupers" :{
