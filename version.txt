@@ -10,7 +10,15 @@
   "telegramVersion" : "1.0.48",
   "file" : "14"  
   }
-}
+},
+
+"new_version_message" : "\n\--- חדש---
+        \n\
+        \n\אח גדול
+        \n\
+        \n\
+        \n\ חפשו בטלגרם MediaBoxIL@
+        \n\"
 }
  , 
  "groupers" :{
