@@ -12,10 +12,11 @@
   }
 },
 
-"new_version_message" : "<pre><strong>.ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה<br /></strong></pre>
-<p><u>מה חדש</u><u></u></p>
+"new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
+<p><strong><u>מה חדש</u></strong><u></u></p>
 <p>האח הגדול</p>
-<p>חפשו בטלגרם <span style=\"color: #0000ff;\">MediaBoxIL@</span></p>"
+<p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
+</div>"
 }
  , 
  "groupers" :{
