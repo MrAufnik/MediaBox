@@ -12,13 +12,14 @@
   }
 },
 
-"new_version_message" : "$--- חדש---
-     $
-     $   אח גדול
-     $   
-     $   
-     $   חפשו בטלגרם MediaBoxIL@
-     $"
+"new_version_message" : "
+$--- מה חדש---
+$
+$   אח גדול
+$   
+$   
+$   חפשו בטלגרם MediaBoxIL@
+$"
 }
  , 
  "groupers" :{
