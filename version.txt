@@ -14,7 +14,7 @@
 
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
-<p>האח הגדול</p>
+<p>פיצר חדש לגרסה הבא...</p>
 <p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
 </div>"
 }
