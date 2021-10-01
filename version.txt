@@ -28,7 +28,7 @@
 ]
 }
 ,
-"system_message" : { "time-date" : "1/10/21"  , "message" : "
+"system_message" : { "time-date" : "01/10/21"  , "message" : "
 <pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
 <p>בולר נטש את הקבוצה </p>
 <p>בולר חזור הביתה</p>
