@@ -2,22 +2,21 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.54",
+  "dropVersion": "1.0.55",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.54",
-  "file" : "21"  
+  "telegramVersion" : "1.0.55",
+  "file" : "22"  
   }
 },
 
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
-<p><b>חשוב ביותר!!! יש להתחבר לטלמדיה כדי לעדכן</b></p>
 <p><strong><u>מה חדש</u></strong><u></u></p>
-<p>24 ויאדי</p>
-<p>החלפת החיפוש הכללי בטלגרם + חיפוש קבוצה</p>
-<p>בחירת תקית שמירה לבעלי אנדרואיד 10ומטה</p>
+<p>ערוץ האח הגדול</p>
+<p>תיקון ערוץ 9</p>
+<p>החלפת דיפולט התיקית הורדות</p>
 <p>תיקונים</p>
 <p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
 </div>"
