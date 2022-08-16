@@ -2,22 +2,24 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.55",
+  "dropVersion": "1.0.56",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.55",
-  "file" : "22"  
+  "telegramVersion" : "1.0.56",
+  "file" : "23"  
   }
 },
 
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
-<p>ערוץ האח הגדול</p>
+<p>תיקון ויאודי 13</p>
+<p>תיקון ערוץ 23</p>
 <p>תיקון ערוץ 9</p>
-<p>החלפת דיפולט התיקית הורדות</p>
-<p>תיקונים</p>
+<p>תיקון ערוצי רדיו</p>
+<p>מקורות חדשים</p>
+<p>שיפור טלמדיה</p>
 <p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
 </div>"
 }
