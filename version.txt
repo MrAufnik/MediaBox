@@ -7,13 +7,14 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.56",
-  "file" : "24"  
+  "telegramVersion" : "1.0.57",
+  "file" : "25"  
   }
 },
 
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
+<p>תיקון קטן ל56</p>
 <p>תיקון ויאודי 13</p>
 <p>תיקון ערוץ 23</p>
 <p>תיקון ערוץ 9</p>
