@@ -38,6 +38,21 @@
 ]
 }
 ,
+"live" :{
+"11" :{"show" :true , "force": false, "stream": "" },
+"12" :{"show" :true , "force": false, "stream": "" },
+"14" :{"show" :true , "force": false, "stream": "" },
+"21" :{"show" :true , "force": false, "stream": "" },
+"23" :{"show" :true , "force": false, "stream": "" },
+"24" :{"show" :true , "force": false, "stream": "" },
+"26" :{"show" :false , "force": false, "stream": "" },
+"66" :{"show" :true , "force": false, "stream": "" },
+"97" :{"show" :true , "force": true, "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8" },
+"99" :{"show" :true , "force": false, "stream": "" },
+"09" :{"show" :true , "force": false, "stream": "" }
+
+}
+,
 "system_message" : { "time-date" : "12/10/21" ,"message" : "
 <pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
 <p> תיקון מהיר </p>
