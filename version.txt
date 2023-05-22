@@ -39,7 +39,7 @@
 }
 ,
 "live" :{
-"11" :{"show" :true , "force": false, "stream": "
+"11" :{"show" :true , "force":true , "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 HD,FRAME-RATE=25.000
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
