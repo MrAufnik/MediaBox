@@ -7,21 +7,27 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.57",
-  "file" : "25"  
+  "telegramVersion" : "1.0.58",
+  "file" : "26"  
   }
 },
 
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
-<p>תיקון קטן ל56</p>
-<p>תיקון ויאודי 13</p>
-<p>תיקון ערוץ 23</p>
-<p>תיקון ערוץ 9</p>
-<p>תיקון ערוצי רדיו</p>
-<p>מקורות חדשים</p>
-<p>שיפור טלמדיה</p>
-<p>אפשרות להתקין אפליקציות ישירות מטלמדיה</p>
+<p>שיפור יציבות ומהירות  </p>
+<p>נגן אוניברסלי  </p>
+<p>מקורות חדשים בסרטים לצפיה ישירה </p>
+<p> מקורות חדשים בסדרות לצפיה ישירה  </p>
+<p>תחילת ניגון לפני חיפוש כתוביות  </p>
+<p>כאשר נמצא תרגום, האייקון cc בסרגל, הופך לירוק.</p>
+<p>חיבור לסדרות טיוי בהגדרות </p>
+<p>תמיכה בקבצי מדיה גדולים מ2GB ובקבוצות חסומות </p>
+<p>ה צופים היום״ באריח סרטים/סדרות Moviedb  </p>
+<p>הוספת שעון במסך הבית  </p>
+<p>פליקציות מותקנות במסך הראשי למעבר מהיר  </p>
+<p>תוקן ערוץ 13  </p>
+<p>תוקן כאן חינוכית  </p>
+<p>תוקן ערוץ הדברות </p>
 <p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
 </div>"
 }
@@ -60,7 +66,7 @@ http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/ind
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
 "24" :{"show" :true , "force": false, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8" },
-"26" :{"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_1.m3u8" },
+"26" :{"show" :true , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_1.m3u8" },
 "50" :{"show" :true , "force": true, "stream": "https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist1080p.m3u8" },
 "66" :{"show" :true , "force": true, "stream": "https://edge2.il.kab.tv/live/tv66-heb-high/chunks.m3u8" },
 "97" :{"show" :true , "force": true, "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8" },
