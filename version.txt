@@ -2,7 +2,7 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.56",
+  "dropVersion": "1.0.58",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
