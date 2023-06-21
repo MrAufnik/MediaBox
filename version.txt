@@ -75,10 +75,11 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
 }
 ,
-"system_message" : { "time-date" : "12/10/21" ,"message" : "
+"system_message" : { "time-date" : "6/21/23" ,"message" : "
 <pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
-<p> תיקון מהיר </p>
-<p> </p>
+<p>  הקבוצה אמנם נסגרה אבל האפליקציה עדיין עובדת :) ,מי שלא נמצא על הגרסה האחרונה מתבקש לעדכן ל1.0.58 </p>
+<p> ולחכות לעדכון הקרוב ,מי שלא מחובר לטלגרם שיתחבר </p>
+<p> *** אין למדיה בוקס כרגע שום קבוצה *** </p>
 <p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
 </div>" 
 
