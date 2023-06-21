@@ -75,7 +75,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
 }
 ,
-"system_message" : { "time-date" : "21/6/23" ,"message" : "
+"system_message" : { "time-date" : "21/06/23" ,"message" : "
 <pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
 <p>  הקבוצה אמנם נסגרה אבל האפליקציה עדיין עובדת :) ,מי שלא נמצא על הגרסה האחרונה מתבקש לעדכן ל1.0.58 </p>
 <p> ולחכות לעדכון הקרוב ,מי שלא מחובר לטלגרם שיתחבר </p>
