@@ -9,7 +9,7 @@
   "telegram" :{
   "telegramVersion" : "1.0.58",
   "file" : "27",
-  "main" : "aGFpbSBpdHMgdGhlIGtpbmc"
+  "main" : "ZHVkdWR1ZHUgZG9kZG8"
  
   }
 },
