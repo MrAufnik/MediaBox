@@ -2,13 +2,13 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.58",
+  "dropVersion": "1.0.59",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.58",
-  "file" : "27",
+  "telegramVersion" : "1.0.59",
+  "file" : "28",
   "main" : ""
  
   }
@@ -19,8 +19,11 @@
 <p> *** עדכון חובה *** </p>
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <p>https://bit.ly/mboxsite   </p>
-<p>תוקן ערוץ 13 VOD </p>
-<p>תוקן כאן חינוכית VOD  </p>
+<p>לוגו חדש<p>
+<p>טריילר סרטים/סדרות <p>
+<p>קטגוריה AppleTV בסדרות<p>
+<p>(חלקית) תוקן ערוץ 13 VOD </p>
+<p>תוקן כאן חינוכית VOD </p>
 <p>תוקן כאן VOD  </p>
 <p>תוקן כאן רדיו </p>
 <p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
