@@ -27,7 +27,7 @@
 <p>תוקן כאן VOD  </p>
 <p>ערוץ 5 </p>
 <p>תוקן כאן רדיו </p>
-<p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
+<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
 </div>"
 }
  , 
