@@ -80,7 +80,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 <p> (: אוטוטו עדכון חדש </p>
 <p> https://bit.ly/mboxsite </p>
 <p> *** אין למדיה בוקס כרגע שום קבוצה *** </p>
-<p>חפשו בטלגרם <span style=\"color: #3366ff;\">MediaBoxIL@</span></p>
+<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
 <p> :) או שבעצם אל תחפשו ... אנחנו כבר נמצא אתכם </p>
 </div>" 
 
