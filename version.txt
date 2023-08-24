@@ -7,8 +7,8 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.59",
-  "file" : "28",
+  "telegramVersion" : "1.0.60",
+  "file" : "29",
   "main" : ""
  
   }
@@ -19,14 +19,9 @@
 <p> *** עדכון חובה *** </p>
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <p>https://bit.ly/mboxsite   </p>
-<p>לוגו חדש<p>
-<p>טריילר סרטים/סדרות <p>
-<p>קטגוריה AppleTV בסדרות<p>
-<p>(חלקית) תוקן ערוץ 13 VOD </p>
+<p>TMDB סרטים/סדרוה גלילה<p>
 <p>תוקן כאן חינוכית VOD </p>
 <p>תוקן כאן VOD  </p>
-<p>ערוץ 5 </p>
-<p>תוקן כאן רדיו </p>
 <p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
 </div>"
 }
