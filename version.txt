@@ -60,6 +60,8 @@ http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/ind
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
 "24" :{"show" :true , "force": false, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8" },
+"25" :{"show" :true , "force": true, "stream": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd" },
+
 "26" :{"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_1.m3u8" },
 "33" :{"show" :true , "force": true, "stream": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8" },
 "50" :{"show" :false , "force": true, "stream": "https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist1080p.m3u8" },
