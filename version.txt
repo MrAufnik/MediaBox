@@ -7,7 +7,7 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.62",
+  "telegramVersion" : "1.0.63",
   "file" : "32",
   "main" : ""
  
@@ -16,12 +16,11 @@
 
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
-<p> *** עדכון חובה *** </p>
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <p>https://bit.ly/mboxsite   </p>
-<p>איכות 12</p>
-<p>טעינת קבוצות וערוצים בטלמדיה</p>
-<p>מקור IPTV</p>
+<p>Real-Debrid</p>
+<p>vod 5ספורט</p>
+<p>מקורות טורנטים</p>
 <p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
 </div>"
 }
