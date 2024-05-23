@@ -7,8 +7,8 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.63",
-  "file" : "33",
+  "telegramVersion" : "1.0.64",
+  "file" : "34",
   "main" : ""
  
   }
@@ -18,9 +18,9 @@
 <p><strong><u>מה חדש</u></strong><u></u></p>
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <p>https://bit.ly/mboxsite   </p>
-<p>Real-Debrid</p>
-<p>vod 5ספורט</p>
-<p>מקורות טורנטים</p>
+<p>12 ערוץ </p>
+<p>VOD 11 ערוץ </p>
+<p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
 <p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
 </div>"
 }
