@@ -41,6 +41,8 @@
 ]
 }
 ,
+"playerBot" : {"channel":null ,botID : "6880395931L" ,botName : "@FileStream_ibot" ,"bootList" :["http\[s\]://.+/dl/.+"]}
+,
 "live" :{
 "11" :{"show" :true , "force":true , "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 HD,FRAME-RATE=25.000
