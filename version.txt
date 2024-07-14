@@ -41,7 +41,7 @@
 ]
 }
 ,
-"playerBot" : {"channel":"" ,botID : "6880395931L" ,botName : "@FileStream_ibot" ,"bootList" :["http[s]://.+/dl/.+"]}
+"playerBot" : {"channel":null ,botID : "6880395931L" ,botName : "@FileStream_ibot" ,"bootList" :["http[s]://.+/dl/.+"]}
 ,
 "live" :{
 "11" :{"show" :true , "force":true , "stream": "
