@@ -2,8 +2,8 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.64",
-  "file1" : "aHR0cHM6Ly9maWxlc3RyZWFtdnAtMWIyZDg0ZDEyZjM0Lmhlcm9rdWFwcC5jb20vZGwvNjY1MWJkZDE1NjJlOTJkZjQ4ZTFhZTNl",
+  "dropVersion": "1.0.66",
+  "file1" : "aHR0cHM6Ly9maWxlc3RyZWFtdjItNTE4MjEzZWI3MDY5Lmhlcm9rdWFwcC5jb20vZGwvNjZhNjZlN2ZhZWYxYjgyZDNlYTkyMDFl",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
