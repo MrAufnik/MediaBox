@@ -43,7 +43,7 @@
 ,
 "playerBot1" : {"channel":"" ,botID : "7149491589" ,botName : "@FileToLinkiBot" ,"regList" :["http://.+hash=.+"]}
 ,
-"playerBot" : {"channel":"" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
+"playerBot" : {"channel":"https://t.me/missqueenbotx" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
 ,
 "live" :{
 "11" :{"show" :true , "force":true , "stream": "
