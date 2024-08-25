@@ -2,13 +2,13 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.66",
-  "file1" : "aHR0cHM6Ly9maWxlc3RyZWFtdjItNTE4MjEzZWI3MDY5Lmhlcm9rdWFwcC5jb20vZGwvNjZhNjZlN2ZhZWYxYjgyZDNlYTkyMDFl",
-  "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
+  "dropVersion": "1.0.67",
+  "file" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Ng==",
+  "file1" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.66",
+  "telegramVersion" : "1.0.67",
   "file" : "36",
   "main" : ""
  
@@ -20,8 +20,11 @@
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <p>https://bit.ly/mboxsite   </p>
 <p>ואפשר גם קוד 31560 בדאונלודר</p>
-<p>חיבור טלמדיה ,עדכון גרסת טלגרם</p>
-<p> 12 ערוץ לייב</p>
+<p>גיבוי ושחזור הגדרות</p>
+<p>תיקון חינוכית 23 VOD</p>
+<p>תיקון 11 VOD</p>
+<p>תיקון 13 VOD</p>
+<p>רדיו echo 99 fm</p>
 <p></p>
 <p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
 <p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
