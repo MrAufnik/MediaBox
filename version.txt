@@ -80,7 +80,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 "66" :{"show" :true , "force": true, "stream": "https://edge2.il.kab.tv/live/tv66-heb-high/chunks.m3u8" },
 "97" :{"show" :true , "force": true, "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8" },
 "99" :{"show" :true , "force": true, "stream": "https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8" },
-"09" :{"show" :true , "force": true, "stream": "https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8" },
+"09" :{"show" :true , "force": true, "stream": "https://anym3u8player.com/youtube.php/id/670e834788711.m3u8" },
 "05" :{"show" :true , "force": true, "stream": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8" }
 
 }
