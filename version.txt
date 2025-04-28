@@ -91,13 +91,13 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 }
 
 ,
-"extra_channels" :{
-1 : {"name" : "ארץ נהדרת" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1745606011~acl=%2f*~data=hdntl~hmac=2ea661e0c85f1acb0866f7f8aa46899df5baeef454e04d58f62f44368974d798/video_5761024_p_0.m3u8" },
-2 : {"name" : "סברי מרנן" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1745606149~acl=%2f*~data=hdntl~hmac=04b477c060176ba71ca5a8eb6e5d682cb6fdf34c19f072c6a3bcc7ede35e5b56/video_5761024_p_0.m3u8" },
-3 : {"name" : "חתונמי" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1745606228~acl=%2f*~data=hdntl~hmac=16278eda169d334d5c54a4bd2af9a0911003c0cbd78e1652bded4d8144de583d/video_5761024_p_0.m3u8" },
-4 : {"name" : "נינג'ה ישראל" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1745606277~acl=%2f*~data=hdntl~hmac=aa44a60aa5a39d5655f4c702e7b5d91bac1a4bccc644b6f95b3cc524ce189fd8/video_5761024_p_0.m3u8" },
-5 : {"name" : "הכוכב הבא" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1745606321~acl=%2f*~data=hdntl~hmac=6464464494f80995ccf454c124767108dcd958cfb0fddf2cc75ad6024989d6be/video_5761024_p_0.m3u8" }
-}
+"extra_channels" :[
+{"name" : "ארץ נהדרת" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1745606011~acl=%2f*~data=hdntl~hmac=2ea661e0c85f1acb0866f7f8aa46899df5baeef454e04d58f62f44368974d798/video_5761024_p_0.m3u8" },
+{"name" : "סברי מרנן" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1745606149~acl=%2f*~data=hdntl~hmac=04b477c060176ba71ca5a8eb6e5d682cb6fdf34c19f072c6a3bcc7ede35e5b56/video_5761024_p_0.m3u8" },
+{"name" : "חתונמי" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1745606228~acl=%2f*~data=hdntl~hmac=16278eda169d334d5c54a4bd2af9a0911003c0cbd78e1652bded4d8144de583d/video_5761024_p_0.m3u8" },
+{"name" : "נינג'ה ישראל" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1745606277~acl=%2f*~data=hdntl~hmac=aa44a60aa5a39d5655f4c702e7b5d91bac1a4bccc644b6f95b3cc524ce189fd8/video_5761024_p_0.m3u8" },
+{"name" : "הכוכב הבא" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1745606321~acl=%2f*~data=hdntl~hmac=6464464494f80995ccf454c124767108dcd958cfb0fddf2cc75ad6024989d6be/video_5761024_p_0.m3u8" }
+]
 
 ,
 "system_message" : { "time-date" : "27/07/23" ,"message" : "
