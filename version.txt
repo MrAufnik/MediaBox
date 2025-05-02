@@ -70,7 +70,7 @@ http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/ind
 EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ערוץ 14 HD -1,FRAME-RATE=25.000
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ערוץ 14 HD -2,FRAME-RATE=25.000
-"https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8"
+https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8"
 },
 
 "21" :{"name" :"ערוץ הקניות" ,"show" :false , "force": true, "stream": "https://shoppingil-rewriter.vidnt.com/index.m3u8" },
