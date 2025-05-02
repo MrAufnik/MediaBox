@@ -66,8 +66,12 @@ https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManife
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=אתר רשת 13 כתוביות,FRAME-RATE=25.000
 http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8" },
 
-"14" :{"name" :"עכשיו 14" ,"show" :true , "force": false, "stream": "
-https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8"},
+"14" :{"name" :"עכשיו 14" ,"show" :true , "force": true, "stream": "
+EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ערוץ 14 HD -1,FRAME-RATE=25.000
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ערוץ 14 HD -2,FRAME-RATE=25.000
+"https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8"
+},
 
 "21" :{"name" :"ערוץ הקניות" ,"show" :false , "force": true, "stream": "https://shoppingil-rewriter.vidnt.com/index.m3u8" },
 
