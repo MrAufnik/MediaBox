@@ -56,7 +56,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
 
-"12" :{"name" :"קשת 12" ,"show" :true , "force": false, "stream": "https://nirozfiles.github.io/split-tv/keshet" },
+"12" :{"name" :"קשת 12" ,"show" :true , "force": false, "stream": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1" },
 
 "13" :{"name" :"רשת 13" ,"show" :true , "force": true, "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=רשת 13 HD,FRAME-RATE=25.000
@@ -80,7 +80,7 @@ https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/m
 "23" :{"name" :"חינוכית" ,"show" :true , "force": true, "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=חינוכית 23,FRAME-RATE=25.000
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
-"24" :{"name" :"מוזיקה 24" ,"show" :true , "force": false, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8" },
+"24" :{"name" :"מוזיקה 24" ,"show" :true , "force": false, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8" },
 "25" :{"name" :"רלוונטי" ,"show" :false , "force": true, "stream": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd" },
 "26" :{"name" :"האח הגדול" ,"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8" },
 "27" :{"name" :"חדשות i24" ,"show" :true , "force": true, "stream": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8" },
