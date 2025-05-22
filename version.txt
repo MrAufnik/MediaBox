@@ -75,7 +75,7 @@ https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/m
 
 "21" :{"name" :"ערוץ הקניות" ,"show" :false , "force": true, "stream": "https://shoppingil-rewriter.vidnt.com/index.m3u8" },
 
-"10" :{"name" :"כלכלה 10" ,"show" :true , "force": true, "stream": "https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8" },
+"10" :{"name" :"כלכלה 10" ,"show" :true , "force": true, "stream": "https://n-121-3.il.cdn-redge.media/livedash/oil/calcala-live/live/channel10/live.livx" },
 
 "23" :{"name" :"חינוכית" ,"show" :true , "force": true, "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=חינוכית 23,FRAME-RATE=25.000
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
