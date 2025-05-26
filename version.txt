@@ -8,8 +8,8 @@
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.68",
-  "file" : "39",
+  "telegramVersion" : "1.0.69",
+  "file" : "40",
   "main" : ""
  
   }
