@@ -1,0 +1,50 @@
+{
+  "StremIO": {
+    "Direct": [
+      {
+        "name": "vidsrc_api",
+        "link": "https://vidsrc-api-stremio.vercel.app"
+      },
+      {
+        "name": "ramondev",
+        "link": "https://stremio-addon.ramondev.site"
+      },
+      {
+        "name": "nuvioaddon",
+        "link": "https://nuvioaddon.vercel.app"
+      },
+      {
+        "name": "stremify",
+        "link": "https://stremify.hayd.uk"
+      }
+    ],
+    "Torrent": [
+      {
+        "name": "torrentio",
+        "link": "https://torrentio.strem.fun"
+      },
+      {
+        "name": "mediafusion",
+        "link": "https://mediafusion.elfhosted.com"
+      },
+      {
+        "name": "peerflix",
+        "link": "https://peerflix.mov/"
+      },
+      {
+        "name": "torrentio-sh",
+        "link": "https://torrentio.araec.com/"
+      }
+    ],
+
+ "Subtitle": [
+      {
+        "name": "",
+        "link": ""
+      }
+      
+    ],
+
+    
+  }
+}
