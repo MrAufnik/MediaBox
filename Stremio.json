@@ -4,43 +4,140 @@
       {
         "name": "vidsrc_api",
         "link": "https://vidsrc-api-stremio.vercel.app"
+        "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       },
       {
         "name": "ramondev",
         "link": "https://stremio-addon.ramondev.site"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       },
       {
         "name": "nuvioaddon",
         "link": "https://nuvioaddon.vercel.app"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       },
       {
         "name": "stremify",
         "link": "https://stremify.hayd.uk"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       }
     ],
     "Torrent": [
       {
         "name": "torrentio",
         "link": "https://torrentio.strem.fun"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       },
       {
         "name": "mediafusion",
         "link": "https://mediafusion.elfhosted.com"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       },
       {
         "name": "peerflix",
         "link": "https://peerflix.mov/"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
       },
       {
         "name": "torrentio-sh",
         "link": "https://torrentio.araec.com/"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
+      },
+
+
+      {
+        "name": "comet",
+        "link": "https://magnify.pages.dev/scraper/comet"
+         "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
+      },
+
+      {
+        "name": "Torrentio",
+        "link": "https://magnify.pages.dev/scraper/torrentio"
+        "movie_query" : "/qualityfilter=scr,cam|sort=qualitysize"
+       "use" : true
+      },
+
+      {
+        "name": "dmm",
+        "link": "https://magnify.pages.dev/scraper/dmm"
+        "movie_query" : "/?imdbid={query}"
+        "use" : true
+      },
+
+      {
+        "name": "MediaFusion",
+        "link": "https://magnify.pages.dev/scraper/mediafusion"
+        "movie_query" : "/stream/movie/{query}.json"
+        "use" : true
+      },
+
+      {
+        "name": "KnightCrawler",
+        "link": "https://magnify.pages.dev/scraper/knightcrawler"
+        "movie_query" : "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json"
+        "use" : true
+      },
+
+      {
+        "name": "torrentsCSV",
+        "link": "https://magnify.pages.dev/scraper/torrents-csv"
+        "movie_query" : "/search?q={query}&size=100"
+        "use" : true
+      },
+
+      {
+        "name": "PirateBay",
+        "link": "https://magnify.pages.dev/scraper/piratebay"
+        "movie_query" : "/q.php?q={query}&cat=211"
+        "use" : true
+      },
+
+      {
+        "name": "BitMagnet",
+        "link": "https://magnify.pages.dev/scraper/bitmagnet"
+        "movie_query" : "/?t=search&q={query}&cat=2045"
+        "use" : true
+      },
+      {
+        "name": "=CloudTorrents",
+        "link": "https://magnify.pages.dev/scraper/cloudtorrents"
+        "movie_query" : "/search?query={query}&torrent_type=5&ordering=-size&offset=0"
+        "use" : true
+      },
+      {
+        "name": "RarBg",
+        "link": "https://magnify.pages.dev/scraper/rarbg"
+        "movie_query" : "/get-posts/category:movies:order:-s:keywords:{query}?page=1"
+        "use" : true
+      },
+      {
+        "name": "Nyaa",
+        "link": "https://magnify.pages.dev/scraper/nyaa"
+        "movie_query" : "/?f=0&c=1_0&q={query}&s=size&o=desc&p=1"
+        "use" : true
       }
+
+
+
+      
     ],
 
  "Subtitle": [
       {
         "name": "",
         "link": ""
+        "query" : ""
+        "use" : true
       }
       
     ],
