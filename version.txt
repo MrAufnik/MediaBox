@@ -3,8 +3,8 @@
   "servers" :{
   "drop" : {
   "dropVersion": "1.0.69",
-  "file" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Nw==",
-  "file1" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
+  "file1" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Nw==",
+  "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
