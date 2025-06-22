@@ -21,7 +21,7 @@
       },
       {
         "name": "nuvioaddon",
-        "link": "https: //nuvioaddon.vercel.app",
+        "link": "https://nuvioaddon.vercel.app",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
