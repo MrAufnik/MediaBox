@@ -41,7 +41,7 @@
     "Torrent": [
       {
         "name": "torrentio",
-        "link": "https: //torrentio.strem.fun",
+        "link": "https://torrentio.strem.fun",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
@@ -50,7 +50,7 @@
       },
       {
         "name": "mediafusion",
-        "link": "https: //mediafusion.elfhosted.com",
+        "link": "https://mediafusion.elfhosted.com",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
@@ -59,7 +59,7 @@
       },
       {
         "name": "peerflix",
-        "link": "https: //peerflix.mov/",
+        "link": "https://peerflix.mov/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
@@ -68,7 +68,7 @@
       },
       {
         "name": "torrentio-sh",
-        "link": "https: //torrentio.araec.com/",
+        "link": "https://torrentio.araec.com/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
@@ -77,7 +77,7 @@
       },
       {
         "name": "comet",
-        "link": "https: //magnify.pages.dev/scraper/comet",
+        "link": "https://magnify.pages.dev/scraper/comet",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
@@ -86,7 +86,7 @@
       },
       {
         "name": "Torrentio",
-        "link": "https: //magnify.pages.dev/scraper/torrentio",
+        "link": "https://magnify.pages.dev/scraper/torrentio",
         "query": {
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
           "tvshow": ""
@@ -95,7 +95,7 @@
       },
       {
         "name": "dmm",
-        "link": "https: //magnify.pages.dev/scraper/dmm",
+        "link": "https://magnify.pages.dev/scraper/dmm",
         "query": {
           "movie": "/?imdbid={query}",
           "tvshow": ""
@@ -104,7 +104,7 @@
       },
       {
         "name": "MediaFusion",
-        "link": "https: //magnify.pages.dev/scraper/mediafusion",
+        "link": "https://magnify.pages.dev/scraper/mediafusion",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": ""
@@ -113,7 +113,7 @@
       },
       {
         "name": "KnightCrawler",
-        "link": "https: //magnify.pages.dev/scraper/knightcrawler",
+        "link": "https://magnify.pages.dev/scraper/knightcrawler",
         "query": {
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
           "tvshow": ""
@@ -122,7 +122,7 @@
       },
       {
         "name": "torrentsCSV",
-        "link": "https: //magnify.pages.dev/scraper/torrents-csv",
+        "link": "https://magnify.pages.dev/scraper/torrents-csv",
         "query": {
           "movie": "/search?q={query}&size=100",
           "tvshow": ""
@@ -131,7 +131,7 @@
       },
       {
         "name": "PirateBay",
-        "link": "https: //magnify.pages.dev/scraper/piratebay",
+        "link": "https://magnify.pages.dev/scraper/piratebay",
         "query": {
           "movie": "/q.php?q={query}&cat=211",
           "tvshow": ""
@@ -140,7 +140,7 @@
       },
       {
         "name": "BitMagnet",
-        "link": "https: //magnify.pages.dev/scraper/bitmagnet",
+        "link": "https://magnify.pages.dev/scraper/bitmagnet",
         "query": {
           "movie": "/?t=search&q={query}&cat=2045",
           "tvshow": ""
@@ -149,7 +149,7 @@
       },
       {
         "name": "=CloudTorrents",
-        "link": "https: //magnify.pages.dev/scraper/cloudtorrents",
+        "link": "https://magnify.pages.dev/scraper/cloudtorrents",
         "query": {
           "movie": "/search?query={query}&torrent_type=5&ordering=-size&offset=0",
           "tvshow": ""
@@ -158,7 +158,7 @@
       },
       {
         "name": "RarBg",
-        "link": "https: //magnify.pages.dev/scraper/rarbg",
+        "link": "https://magnify.pages.dev/scraper/rarbg",
         "query": {
           "movie": "/get-posts/category:movies:order:-s:keywords:{query}?page=1",
           "tvshow": ""
@@ -167,7 +167,7 @@
       },
       {
         "name": "Nyaa",
-        "link": "https: //magnify.pages.dev/scraper/nyaa",
+        "link": "https://magnify.pages.dev/scraper/nyaa",
         "query": {
           "movie": "/?f=0&c=1_0&q={query}&s=size&o=desc&p=1",
           "tvshow": ""
