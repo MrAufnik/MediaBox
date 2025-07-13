@@ -106,8 +106,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 {"name" : "ערוץ קומדי" ,"stream" : "https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/comedy13.jpg" ,"text" : ""},
 {"name" : "ערוץ ריאלטי" ,"stream" : "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/Reality13.jpg" ,"text" : ""},
 {"name" : "ערוץ הנופש" ,"stream" : "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/vacation13.jpg" ,"text" : ""}
-//{"name" : "DAZN קומבט" ,"stream" : "https://dbb2f9bsvsu9o.cloudfront.net/out/v1/c22588ee135e412ca7f64f5525b097ab/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/Dazn_combat13.jpg" //,"text" : ""},
-//{"name" : "DAZN כדורגל נשים" ,"stream" : "https://d3829cgl07i279.cloudfront.net/out/v1/4c5e08593840494e9503198d20cdd15f/index.m3u8" ,"image" : //"https://raw.githubusercontent.com/mboxil/img/refs/heads/main/Dazn_wFootball.jpg" ,"text" : ""}
 ]
 
 ,
