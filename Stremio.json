@@ -178,45 +178,45 @@
     "Subtitle": [
       {
         "name": "OPSAI",
-        "link": "https://opensubtitles.stremio.homes/he/ai-translated=true%7Cfrom=all%7Cauto-adjustment=true/",
+        "link": "https://opensubtitles.stremio.homes/he/ai-translated=true%7Cfrom=all%7Cauto-adjustment=true",
         "query": {
-           "movie": "/movie/",
+           "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
         }
         "use": true
       },
       {
         "name": "ktuvit",
-        "link": "https://4b139a4b7f94-ktuvit-stremio.baby-beamup.club/",
+        "link": "https://4b139a4b7f94-ktuvit-stremio.baby-beamup.club",
         "query": {
-           "movie": "/movie/",
+           "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
         }
         "use": true
       },
       {
         "name": "subtito",
-        "link": "https://subtito.com/user/e24b9040-3a02-4a35-971a-cd296f035f8e/kTqgScbto/",
+        "link": "https://subtito.com/user/e24b9040-3a02-4a35-971a-cd296f035f8e/kTqgScbto",
         "query": {
-           "movie": "/movie/",
+           "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
         }
         "use": true
       },
       {
         "name": "subhero",
-        "link": "https://subhero.onrender.com/%7B%22language%22%3A%22he%22%7D/",
+        "link": "https://subhero.onrender.com/%7B%22language%22%3A%22he%22%7D",
         "query": {
-           "movie": "/movie/",
+           "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
         }
         "use": true
       },
        {
         "name": "subtito",
-        "link": "https://subtito.com/user/e24b9040-3a02-4a35-971a-cd296f035f8e/kTqgScbto/",
+        "link": "https://subtito.com/user/e24b9040-3a02-4a35-971a-cd296f035f8e/kTqgScbto",
         "query": {
-           "movie": "/movie/",
+           "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
         }
         "use": true
