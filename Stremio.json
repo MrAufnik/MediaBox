@@ -207,7 +207,7 @@
         "name": "subhero",
         "link": "https://subhero.onrender.com/%7B%22language%22%3A%22he%22%7D",
         "query": {
-           "movie": "/subtitles/movie/{query}.json",
+           "movie": "/subtitles/movie/{query}/manifast.json",
           "tvshow": ""       
         },
         "use": true
