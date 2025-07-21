@@ -182,7 +182,7 @@
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
-        }
+        },
         "use": true
       },
       {
@@ -191,7 +191,7 @@
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
-        }
+        },
         "use": true
       },
       {
@@ -200,7 +200,7 @@
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
-        }
+        },
         "use": true
       },
       {
@@ -209,7 +209,7 @@
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
-        }
+        },
         "use": true
       },
        {
@@ -218,7 +218,7 @@
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
-        }
+        },
         "use": true
       },
      
