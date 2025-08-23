@@ -179,7 +179,7 @@
       {
         "name": "OPSAI",
         "link": "https://opensubtitles.stremio.homes/he/ai-translated=true%7Cfrom=all%7Cauto-adjustment=true",
-        "encode" : "CP1255" , 
+         "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
@@ -189,7 +189,7 @@
       {
         "name": "ktuvit",
         "link": "https://4b139a4b7f94-ktuvit-stremio.baby-beamup.club",
-        "encode" : "CP1255" , 
+        "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
