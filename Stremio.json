@@ -217,8 +217,8 @@
         "use": true
       },
        {
-        "name": "subtito",
-        "link": "https://subtito.com/user/e24b9040-3a02-4a35-971a-cd296f035f8e/kTqgScbto",
+        "name": "OPS-V3",
+        "link": "https://opensubtitles-v3.strem.io",
         "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
