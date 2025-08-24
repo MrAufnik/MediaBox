@@ -189,7 +189,7 @@
       {
         "name": "ktuvit",
         "link": "https://4b139a4b7f94-ktuvit-stremio.baby-beamup.club",
-        "encode" : "UTF8" , 
+        "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
@@ -199,7 +199,7 @@
       {
         "name": "subtito",
         "link": "https://subtito.com/user/e24b9040-3a02-4a35-971a-cd296f035f8e/kTqgScbto",
-        "encode" : "CP1255" , 
+        "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
@@ -224,7 +224,7 @@
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": ""       
         },
-        "use": true
+        "use": false
       }
      
     ]
