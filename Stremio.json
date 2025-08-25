@@ -182,7 +182,7 @@
          "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
+          "tvshow": "/subtitles/tvshow/{query}/manifest.json"       
         },
         "use": true
       },
@@ -192,7 +192,7 @@
         "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
+          "tvshow": "/subtitles/tvshow/{query}/manifest.json"       
         },
         "use": true
       },
@@ -202,7 +202,7 @@
         "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
+          "tvshow": "/subtitles/tvshow/{query}/manifest.json"       
         },
         "use": true
       },
@@ -211,8 +211,8 @@
         "link": "https://subhero.onrender.com/%7B%22language%22%3A%22he%22%7D",
         "encode" : "CP1255" , 
         "query": {
-           "movie": "/subtitles/movie/{query}/manifast.json",
-          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
+           "movie": "/subtitles/movie/{query}/manifest.json",
+          "tvshow": "/subtitles/tvshow/{query}/manifest.json"       
         },
         "use": true
       },
@@ -222,7 +222,7 @@
         "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
+          "tvshow": "/subtitles/tvshow/{query}/manifest.json"       
         },
         "use": true
       }
