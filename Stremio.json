@@ -224,7 +224,7 @@
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
         },
-        "use": false
+        "use": true
       }
      
     ]
