@@ -182,7 +182,7 @@
          "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": ""       
+          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
         },
         "use": true
       },
@@ -192,7 +192,7 @@
         "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": ""       
+          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
         },
         "use": true
       },
@@ -202,7 +202,7 @@
         "encode" : "UTF8" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": ""       
+          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
         },
         "use": true
       },
@@ -212,7 +212,7 @@
         "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}/manifast.json",
-          "tvshow": ""       
+          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
         },
         "use": true
       },
@@ -222,7 +222,7 @@
         "encode" : "CP1255" , 
         "query": {
            "movie": "/subtitles/movie/{query}.json",
-          "tvshow": ""       
+          "tvshow": "/subtitles/tvshow/{query}/manifast.json"       
         },
         "use": false
       }
