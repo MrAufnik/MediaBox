@@ -36,6 +36,15 @@
           "tvshow": ""
         },
         "use": false
+      },
+            {
+        "name": "noamrko",
+        "link": "https://noamrko-aiostreams.elfhosted.com/stremio/74b88ba6-8582-4e4c-a6c3-81166e85c06b/eyJpdiI6InFQNk9lbEdlRUhxRDRpQ3NjRFkrcUE9PSIsImVuY3J5cHRlZCI6IlY5c1Z1U1doa0tMVTF2R1JselpEY3ZNcEZjaTdCZjR5Tk9KZjAzMXVvb0U9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ",
+        "query": {
+          "movie": "/stream/movie/{query}.json",
+          "tvshow": ""
+        },
+        "use": false
       }
     ],
     "Torrent": [
