@@ -6,7 +6,7 @@
         "link": "https://vidsrc-api-stremio.vercel.app",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -15,7 +15,7 @@
         "link": "https://stremio-addon.ramondev.site",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -24,7 +24,7 @@
         "link": "https://nuvioaddon.vercel.app",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -33,7 +33,7 @@
         "link": "https://stremify.hayd.uk",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -42,7 +42,7 @@
         "link": "https://noamrko-aiostreams.elfhosted.com/stremio/74b88ba6-8582-4e4c-a6c3-81166e85c06b/eyJpdiI6InFQNk9lbEdlRUhxRDRpQ3NjRFkrcUE9PSIsImVuY3J5cHRlZCI6IlY5c1Z1U1doa0tMVTF2R1JselpEY3ZNcEZjaTdCZjR5Tk9KZjAzMXVvb0U9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       }
@@ -53,7 +53,7 @@
         "link": "https://torrentio.strem.fun",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -62,7 +62,7 @@
         "link": "https://mediafusion.elfhosted.com",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -71,7 +71,7 @@
         "link": "https://peerflix.mov/",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -80,7 +80,7 @@
         "link": "https://torrentio.araec.com/",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -89,7 +89,7 @@
         "link": "https://magnify.pages.dev/scraper/comet",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": true
       },
@@ -98,7 +98,7 @@
         "link": "https://magnify.pages.dev/scraper/torrentio",
         "query": {
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -107,7 +107,7 @@
         "link": "https://magnify.pages.dev/scraper/dmm",
         "query": {
           "movie": "/?imdbid={query}",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -116,7 +116,7 @@
         "link": "https://magnify.pages.dev/scraper/mediafusion",
         "query": {
           "movie": "/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -125,7 +125,7 @@
         "link": "https://magnify.pages.dev/scraper/knightcrawler",
         "query": {
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -134,7 +134,7 @@
         "link": "https://magnify.pages.dev/scraper/torrents-csv",
         "query": {
           "movie": "/search?q={query}&size=100",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -143,7 +143,7 @@
         "link": "https://magnify.pages.dev/scraper/piratebay",
         "query": {
           "movie": "/q.php?q={query}&cat=211",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -152,7 +152,7 @@
         "link": "https://magnify.pages.dev/scraper/bitmagnet",
         "query": {
           "movie": "/?t=search&q={query}&cat=2045",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -161,7 +161,7 @@
         "link": "https://magnify.pages.dev/scraper/cloudtorrents",
         "query": {
           "movie": "/search?query={query}&torrent_type=5&ordering=-size&offset=0",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -170,7 +170,7 @@
         "link": "https://magnify.pages.dev/scraper/rarbg",
         "query": {
           "movie": "/get-posts/category:movies:order:-s:keywords:{query}?page=1",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       },
@@ -179,7 +179,7 @@
         "link": "https://magnify.pages.dev/scraper/nyaa",
         "query": {
           "movie": "/?f=0&c=1_0&q={query}&s=size&o=desc&p=1",
-          "tvshow": ""
+          "tvshow": "/stream/series/{query}.json"
         },
         "use": false
       }
