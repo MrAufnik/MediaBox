@@ -39,7 +39,7 @@
       },
             {
         "name": "noamrko",
-        "link": "https://noamrko-aiostreams.elfhosted.com/stremio/74b88ba6-8582-4e4c-a6c3-81166e85c06b/eyJpdiI6InFQNk9lbEdlRUhxRDRpQ3NjRFkrcUE9PSIsImVuY3J5cHRlZCI6IlY5c1Z1U1doa0tMVTF2R1JselpEY3ZNcEZjaTdCZjR5Tk9KZjAzMXVvb0U9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ",
+        "link": "https://noamrko-aiostreams.elfhosted.com/stremio/58c5fc2b-d835-4d6b-967e-de3b7e058d19/eyJpdiI6Ik9BdGQxZSsxUGpUUURtMjhzeGFwdkE9PSIsImVuY3J5cHRlZCI6IjRGN0dzS3daUEVaM0FBcWgrSGQrWlZ3RkROSzlZTEJaOG1KdFN1NUJGbHc9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
