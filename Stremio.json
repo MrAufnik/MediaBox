@@ -47,7 +47,7 @@
         "use": true
       },
       {
-        "name": "noamrko",
+        "name": "noamrko2",
         "link": "https://aiostreams.elfhosted.com/stremio/608be4f6-af40-4011-9fb8-ef675ac377dd/eyJpdiI6IjN2S3RPZXhLMWRyUElzbVZYN3krY3c9PSIsImVuY3J5cHRlZCI6IjNCNDcwYUJ2TXArMTl5ZXphRHZTTXpTb3U4bGVyeXRRK0FORFNCOWRLelE9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ/",
         "query": {
           "movie": "/stream/movie/{query}.json",
