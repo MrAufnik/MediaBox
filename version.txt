@@ -83,7 +83,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
 "24" :{"name" :"מוזיקה 24" ,"show" :true , "force": true, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8" },
 "25" :{"name" :"רלוונטי" ,"show" :false , "force": true, "stream": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd" },
-"26" :{"name" :"האח הגדול" ,"show" :true , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8" },
+"26" :{"name" :"האח הגדול" ,"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8" },
 "27" :{"name" :"חדשות i24" ,"show" :true , "force": true, "stream": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8" },
 "33" :{"name" :"כאן33 ערבית" ,"show" :true , "force": true, "stream": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8" },
 "50" :{"name" :"וואלה" ,"show" :true , "force": true, "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8" },
