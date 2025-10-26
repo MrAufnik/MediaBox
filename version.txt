@@ -9,7 +9,7 @@
   ,
   "telegram" :{
   "telegramVersion" : "1.0.70",
-  "file" : "40",
+  "file" : "41",
   "main" : ""
  
   }
