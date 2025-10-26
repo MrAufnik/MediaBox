@@ -202,7 +202,7 @@
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": "/subtitles/series/{query}/manifest.json"       
         },
-        "use": false
+        "use": true
       },
       {
         "name": "ktuvit",
@@ -222,7 +222,7 @@
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": "/subtitles/series/{query}/manifest.json"       
         },
-        "use": false
+        "use": true
       },
       {
         "name": "subhero",
@@ -232,7 +232,7 @@
            "movie": "/subtitles/movie/{query}/manifest.json",
           "tvshow": "/subtitles/series/{query}/manifest.json"       
         },
-        "use": false
+        "use": true
       },
        {
         "name": "OPS-V3",
