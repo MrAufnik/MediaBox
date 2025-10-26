@@ -2,13 +2,13 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.69",
+  "dropVersion": "1.0.70",
   "file1" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Nw==",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.69",
+  "telegramVersion" : "1.0.70",
   "file" : "40",
   "main" : ""
  
@@ -20,9 +20,9 @@
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <p>https://bit.ly/mboxsite   </p>
 <p>ואפשר גם קוד 31560 בדאונלודר</p>
-<p> תיקונים</p>
-<p>הוספת שורת ערוצים חדשים</p>
-<p>תיקון ערוץ 10</p>
+<p>VOD תיקונים</p>
+<p>מקורות חדשים</p>
+<p>עדכון כתוביות</p>
 <p></p>
 <p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
 <p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
@@ -53,7 +53,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
 
-"12" :{"name" :"קשת 12" ,"show" :true , "force":true, "stream": "
+"12" :{"name" :"קשת 12" ,"show" :true , "force":false, "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 HD,FRAME-RATE=25.000
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12,FRAME-RATE=25.000
