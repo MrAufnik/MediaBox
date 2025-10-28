@@ -1,0 +1,124 @@
+{
+  "update" :{
+  "servers" :{
+  "drop" : {
+  "dropVersion": "1.0.71",
+  "file1" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Nw==",
+  "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
+  }
+  ,
+  "telegram" :{
+  "telegramVersion" : "1.0.71",
+  "file" : "42",
+  "main" : ""
+ 
+  }
+},
+
+"new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
+<p><strong><u>מה חדש</u></strong><u></u></p>
+<p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
+<p>https://bit.ly/mboxsite   </p>
+<p>ואפשר גם קוד 31560 בדאונלודר</p>
+<p>VOD תיקונים</p>
+<p>מקורות חדשים</p>
+<p>עדכון כתוביות</p>
+<p></p>
+<p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
+<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
+</div>"
+}
+ , 
+ "groupers" :{
+ "users" : [
+ "566703811",
+ "362681467",
+ "1258975281"
+],
+"xusers" : [
+"-1258975281",
+"566703811",
+"426649303"
+]
+}
+,
+"playerBot1" : {"channel":"" ,botID : "7149491589" ,botName : "@FileToLinkiBot" ,"regList" :["http://.+hash=.+"]}
+,
+"playerBot" : {"channel":"https://t.me/missqueenbotx" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
+,
+"live" :{
+"11" :{"name" :"כאן11" , "show" :true , "force":true , "stream": "
+#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 HD,FRAME-RATE=25.000
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
+
+"12" :{"name" :"קשת 12" ,"show" :true , "force":false, "stream": "
+#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 HD,FRAME-RATE=25.000
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
+#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12,FRAME-RATE=25.000
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=0&rK=b6
+" },
+
+"13" :{"name" :"רשת 13" ,"show" :true , "force": true, "stream": "
+#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=רשת 13 HD,FRAME-RATE=25.000
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
+#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=777,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=רשת 13 אתר,FRAME-RATE=25.000
+https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=אתר רשת 13 כתוביות,FRAME-RATE=25.000
+http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8" },
+
+"14" :{"name" :"עכשיו 14" ,"show" :true , "force": false, "stream": "
+#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ראשי ערוץ 14 HD,FRAME-RATE=25.000
+https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=גיבוי ערוץ 14,FRAME-RATE=25.000
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+"
+},
+
+"21" :{"name" :"ערוץ הקניות" ,"show" :false , "force": true, "stream": "https://shoppingil-rewriter.vidnt.com/index.m3u8" },
+
+"10" :{"name" :"כלכלה 10" ,"show" :true , "force": true, "stream": "https://n-121-3.il.cdn-redge.media/livedash/oil/calcala-live/live/channel10/live.livx?indexMode&dvr=10800000" },
+
+"23" :{"name" :"חינוכית" ,"show" :true , "force": true, "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=חינוכית 23,FRAME-RATE=25.000
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
+
+"24" :{"name" :"מוזיקה 24" ,"show" :true , "force": true, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8" },
+"25" :{"name" :"רלוונטי" ,"show" :false , "force": true, "stream": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd" },
+"26" :{"name" :"האח הגדול" ,"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8" },
+"27" :{"name" :"חדשות i24" ,"show" :true , "force": true, "stream": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8" },
+"33" :{"name" :"כאן33 ערבית" ,"show" :true , "force": true, "stream": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8" },
+"50" :{"name" :"וואלה" ,"show" :true , "force": true, "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8" },
+"66" :{"name" :"ערוץ הקבלה" ,"show" :true , "force": true, "stream": "https://edge2.il.kab.tv/live/tv66-heb-high/chunks.m3u8" },
+"97" :{"name" :"הידברות" ,"show" :true , "force": true, "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8" },
+"99" :{"name" :"99-כנסת" ,"show" :true , "force": true, "stream": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8" },
+"09" :{"name" :"9 רוסית" ,"show" :true , "force": false, "stream": "https://cdntv.online/high/vcbkpd63uh/781" },
+"05" :{"name" :"ספורט 5" ,"show" :true , "force": true, "stream": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8" }
+
+}
+
+,
+"extra_channels" :[
+{"name" : "ארץ נהדרת" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1745606011~acl=%2f*~data=hdntl~hmac=2ea661e0c85f1acb0866f7f8aa46899df5baeef454e04d58f62f44368974d798/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/eretz12.jpg" ,"text" : "שידורים רציפים של ארץ נהדרת"},
+{"name" : "סברי מרנן" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1745606149~acl=%2f*~data=hdntl~hmac=04b477c060176ba71ca5a8eb6e5d682cb6fdf34c19f072c6a3bcc7ede35e5b56/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
+{"name" : "חתונמי" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1745606228~acl=%2f*~data=hdntl~hmac=16278eda169d334d5c54a4bd2af9a0911003c0cbd78e1652bded4d8144de583d/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/hatunami12.jpg" ,"text" : ""},
+{"name" : "נינג'ה ישראל" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1745606277~acl=%2f*~data=hdntl~hmac=aa44a60aa5a39d5655f4c702e7b5d91bac1a4bccc644b6f95b3cc524ce189fd8/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/ninja12.jpg" ,"text" : ""},
+{"name" : "הכוכב הבא" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1745606321~acl=%2f*~data=hdntl~hmac=6464464494f80995ccf454c124767108dcd958cfb0fddf2cc75ad6024989d6be/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/kohav12.jpg" ,"text" : ""},
+
+{"name" : "ערוץ קומדי" ,"stream" : "https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/comedy13.jpg" ,"text" : ""},
+{"name" : "ערוץ ריאלטי" ,"stream" : "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/Reality13.jpg" ,"text" : ""},
+{"name" : "ערוץ הנופש" ,"stream" : "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/vacation13.jpg" ,"text" : ""}
+]
+
+,
+"system_message" : { "time-date" : "27/07/23" ,"message" : "
+<pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
+<p> (: אוטוטו עדכון חדש </p>
+<p> https://bit.ly/mboxsite </p>
+<p> *** אין למדיה בוקס כרגע שום קבוצה *** </p>
+<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
+<p> :) או שבעצם אל תחפשו ... אנחנו כבר נמצא אתכם </p>
+</div>" 
+
+}
+}
