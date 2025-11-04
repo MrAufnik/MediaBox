@@ -44,8 +44,12 @@
 ,
 "playerBot1" : {"channel":"" ,botID : "7149491589" ,botName : "@FileToLinkiBot" ,"regList" :["http://.+hash=.+"]}
 ,
-"playerBot" : {"channel":"https://t.me/missqueenbotx" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
+"playerBot2" : {"channel":"https://t.me/missqueenbotx" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
+, 
+"playerBot" : {"channel":"" ,botID : "573042256" ,botName : "@ChameleonTvBot" ,"regList" :["http[s]://.+/silver.seedhost.eu/.+"]}
 ,
+  
+  
 "live" :{
 "11" :{"name" :"כאן11" , "show" :true , "force":true , "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 HD,FRAME-RATE=25.000
