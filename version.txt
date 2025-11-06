@@ -18,7 +18,7 @@
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
-<p>https://bit.ly/mboxsite   </p>
+<p>https://tiny.cc/mboxsite   </p>
 <p>ואפשר גם קוד 31560 בדאונלודר</p>
 <p>VOD תיקונים</p>
 <p>מקורות חדשים</p>
