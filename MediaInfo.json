@@ -57,7 +57,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
 
-"12" :{"name" :"קשת 12" ,"show" :true , "force":false, "stream": "
+"12" :{"name" :"קשת 12" ,"show" :true , "force":false, "source" : "MAKO" , "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 HD,FRAME-RATE=25.000
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12,FRAME-RATE=25.000
@@ -90,7 +90,8 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 "23" :{"name" :"חינוכית" ,"show" :true , "force": true, "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=חינוכית 23,FRAME-RATE=25.000
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
-"24" :{"name" :"מוזיקה 24" ,"show" :true , "force": true, "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8" },
+"24" :{"name" :"מוזיקה 24" ,"show" :true , "force": true, "source" : "MAKO" , 
+  "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8" },
 "25" :{"name" :"רלוונטי" ,"show" :false , "force": true, "stream": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd" },
 "26" :{"name" :"האח הגדול" ,"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8" },
 "27" :{"name" :"חדשות i24" ,"show" :true , "force": true, "stream": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8" },
@@ -106,11 +107,16 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 
 ,
 "extra_channels" :[
-{"name" : "ארץ נהדרת" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1745606011~acl=%2f*~data=hdntl~hmac=2ea661e0c85f1acb0866f7f8aa46899df5baeef454e04d58f62f44368974d798/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/eretz12.jpg" ,"text" : "שידורים רציפים של ארץ נהדרת"},
-{"name" : "סברי מרנן" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1745606149~acl=%2f*~data=hdntl~hmac=04b477c060176ba71ca5a8eb6e5d682cb6fdf34c19f072c6a3bcc7ede35e5b56/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
-{"name" : "חתונמי" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1745606228~acl=%2f*~data=hdntl~hmac=16278eda169d334d5c54a4bd2af9a0911003c0cbd78e1652bded4d8144de583d/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/hatunami12.jpg" ,"text" : ""},
-{"name" : "נינג'ה ישראל" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1745606277~acl=%2f*~data=hdntl~hmac=aa44a60aa5a39d5655f4c702e7b5d91bac1a4bccc644b6f95b3cc524ce189fd8/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/ninja12.jpg" ,"text" : ""},
-{"name" : "הכוכב הבא" ,"stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1745606321~acl=%2f*~data=hdntl~hmac=6464464494f80995ccf454c124767108dcd958cfb0fddf2cc75ad6024989d6be/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/kohav12.jpg" ,"text" : ""},
+{"name" : "ארץ נהדרת" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1745606011~acl=%2f*~data=hdntl~hmac=2ea661e0c85f1acb0866f7f8aa46899df5baeef454e04d58f62f44368974d798/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/eretz12.jpg" ,"text" : "שידורים רציפים של ארץ נהדרת"},
+{"name" : "סברי מרנן" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1745606149~acl=%2f*~data=hdntl~hmac=04b477c060176ba71ca5a8eb6e5d682cb6fdf34c19f072c6a3bcc7ede35e5b56/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
+{"name" : "חתונמי" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1745606228~acl=%2f*~data=hdntl~hmac=16278eda169d334d5c54a4bd2af9a0911003c0cbd78e1652bded4d8144de583d/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/hatunami12.jpg" ,"text" : ""},
+{"name" : "נינג'ה ישראל" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1745606277~acl=%2f*~data=hdntl~hmac=aa44a60aa5a39d5655f4c702e7b5d91bac1a4bccc644b6f95b3cc524ce189fd8/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/ninja12.jpg" ,"text" : ""},
+{"name" : "הכוכב הבא" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1745606321~acl=%2f*~data=hdntl~hmac=6464464494f80995ccf454c124767108dcd958cfb0fddf2cc75ad6024989d6be/video_10801920_p_0.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/kohav12.jpg" ,"text" : ""},
 
 {"name" : "ערוץ קומדי" ,"stream" : "https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/comedy13.jpg" ,"text" : ""},
 {"name" : "ערוץ ריאלטי" ,"stream" : "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/Reality13.jpg" ,"text" : ""},
