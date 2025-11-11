@@ -53,6 +53,15 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
+        "use": false
+      },
+      {
+        "name": "TLED3",
+        "link": "https://aiostreams.elfhosted.com/stremio/608be4f6-af40-4011-9fb8-ef675ac377dd/eyJpdiI6Ik9wNUVseXdyakppaVdEMjBOc1Rwanc9PSIsImVuY3J5cHRlZCI6InpzZU1IZ2FWVFd6NkMwdSttcDBSTWw4TmUxWVcrRjcvYyt0SGpGSjVkYU09IiwidHlwZSI6ImFpb0VuY3J5cHQifQ/",
+        "query": {
+          "movie": "/stream/movie/{query}.json",
+          "tvshow": "/stream/series/{query}.json"
+        },
         "use": true
       }
     ],
