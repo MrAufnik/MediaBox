@@ -25,7 +25,7 @@
 <p>עדכון כתוביות</p>
 <p></p>
 <p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
-<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
+<p>חפשו <span style=\"color: #3366ff;\">https://tiny.cc/mboxsite</span></p>
 </div>"
 }
  , 
@@ -116,7 +116,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 <p> (: אוטוטו עדכון חדש </p>
 <p> https://tiny.cc/mboxsite </p>
 <p> *** אין למדיה בוקס כרגע שום קבוצה *** </p>
-<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
+<p>חפשו <span style=\"color: #3366ff;\">https://tiny.cc/mboxsite</span></p>
 <p> :) או שבעצם אל תחפשו ... אנחנו כבר נמצא אתכם </p>
 </div>" 
 
