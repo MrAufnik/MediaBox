@@ -2,13 +2,13 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.71",
+  "dropVersion": "1.0.70",
   "file1" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Nw==",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.71",
+  "telegramVersion" : "1.0.70",
   "file" : "42",
   "main" : ""
  
@@ -18,14 +18,14 @@
 "new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
 <p><strong><u>מה חדש</u></strong><u></u></p>
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
-<p>https://bit.ly/mboxsite   </p>
+<phttps://tiny.cc/mboxsite   </p>
 <p>ואפשר גם קוד 31560 בדאונלודר</p>
 <p>VOD תיקונים</p>
 <p>מקורות חדשים</p>
 <p>עדכון כתוביות</p>
 <p></p>
 <p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
-<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
+<p>חפשו <span style=\"color: #3366ff;\">https://tiny.cc/mboxsite</span></p>
 </div>"
 }
  , 
@@ -57,10 +57,10 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
 
-"12" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
+"123" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
 https://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8"},
   
-"123" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
+"12" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 HD,FRAME-RATE=25.000  
 https://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 DVR,FRAME-RATE=25.000
@@ -134,7 +134,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 <p> (: אוטוטו עדכון חדש </p>
 <p> https://tiny.cc/mboxsite </p>
 <p> *** אין למדיה בוקס כרגע שום קבוצה *** </p>
-<p>חפשו <span style=\"color: #3366ff;\">https://bit.ly/mboxsite</span></p>
+<p>חפשו <span style=\"color: #3366ff;\">https://tiny.cc/mboxsite</span></p>
 <p> :) או שבעצם אל תחפשו ... אנחנו כבר נמצא אתכם </p>
 </div>" 
 
