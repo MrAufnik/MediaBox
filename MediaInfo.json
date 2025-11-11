@@ -57,11 +57,11 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
 
-"12" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
+"123" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
 https://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8"},
   
-"122" :{"name" :"קשת 12" ,"show" :true , "force":false, "source" : "MAKO" , "stream": "
-#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 HD,FRAME-RATE=25.000
+"12" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
+#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 DVR,FRAME-RATE=25.000
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12,FRAME-RATE=25.000
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8
