@@ -57,7 +57,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=כאן 11 כתוביות,FRAME-RATE=25.000
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"},
 
-"12" :{"name" :"קשת 12" ,"show" :true , "force":false, "source" : "MAKO" , "stream": "
+"12" :{"name" :"קשת 12" ,"show" :true , "force":true, "source" : "MAKO" , "stream": "
 https://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8"},
   
 "122" :{"name" :"קשת 12" ,"show" :true , "force":false, "source" : "MAKO" , "stream": "
@@ -78,7 +78,7 @@ https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManife
 http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8" 
 },
 
-"14" :{"name" :"עכשיו 14" ,"show" :true , "force": false, "stream": "
+"14" :{"name" :"עכשיו 14" ,"show" :true , "force": true, "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ראשי ערוץ 14 HD,FRAME-RATE=25.000
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=גיבוי ערוץ 14,FRAME-RATE=25.000
