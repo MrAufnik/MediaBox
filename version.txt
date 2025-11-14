@@ -2,14 +2,14 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.70",
+  "dropVersion": "1.0.71",
   "file1" : "aHR0cHM6Ly93d3cubXlhbmRyb2lkLm9yZy9maWxlbWFuYWdlci5waHA/c2VydmljZT1hcGtvbnNlcnZlcjAxJnVzZXJuYW1lPTU4NTE3Nw==",
   "file" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.70",
-  "file" : "41",
+  "telegramVersion" : "1.0.71",
+  "file" : "42",
   "main" : ""
  
   }
