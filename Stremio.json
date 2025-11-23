@@ -7,7 +7,7 @@
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
-        },
+        }
         "use": false
       },
       {
@@ -53,7 +53,7 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": true
       }
     ],
     "Torrent": [
