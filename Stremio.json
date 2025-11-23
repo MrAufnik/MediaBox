@@ -48,21 +48,12 @@
       },
       {
         "name": "TLED2",
-        "link": "https://aiostreams.elfhosted.com/stremio/608be4f6-af40-4011-9fb8-ef675ac377dd/eyJpdiI6IjN2S3RPZXhLMWRyUElzbVZYN3krY3c9PSIsImVuY3J5cHRlZCI6IjNCNDcwYUJ2TXArMTl5ZXphRHZTTXpTb3U4bGVyeXRRK0FORFNCOWRLelE9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ/",
+        "link": "https://noamin25-aiostreams.elfhosted.com/stremio/a9b22ed7-e337-4471-9480-a66f64f3941b/eyJpdiI6Iit0WnYwR2dyYWRzZFQ1V0VPdlVXWmc9PSIsImVuY3J5cHRlZCI6IjdmNVd4VGpaVS92WDdzWVU5Z0pmVVZ4R3NsUm5XSFQwREwveW5BMnJTTUk9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
         "use": false
-      },
-      {
-        "name": "TLED3",
-        "link": "https://aiostreams.elfhosted.com/stremio/608be4f6-af40-4011-9fb8-ef675ac377dd/eyJpdiI6Ik9wNUVseXdyakppaVdEMjBOc1Rwanc9PSIsImVuY3J5cHRlZCI6InpzZU1IZ2FWVFd6NkMwdSttcDBSTWw4TmUxWVcrRjcvYyt0SGpGSjVkYU09IiwidHlwZSI6ImFpb0VuY3J5cHQifQ/",
-        "query": {
-          "movie": "/stream/movie/{query}.json",
-          "tvshow": "/stream/series/{query}.json"
-        },
-        "use": true
       }
     ],
     "Torrent": [
