@@ -243,8 +243,18 @@
           "tvshow": "/subtitles/series/{query}/manifest.json"       
         },
         "use": true
+      },
+{
+        "name": "Google",
+        "link": "https://stremio-translate.geanpedro.com.br/%7B%22provider%22%3A%22Google%20Translate%22%2C%22translateto%22%3A%22Hebrew%22%2C%22apikey%22%3A%22%22%2C%22base_url%22%3A%22%22%2C%22model_name%22%3A%22%22%2C%22username%22%3A%22mediabox%22%2C%22password%22%3A%22mediabox%22%2C%22saveCredentials%22%3Afalse%7D",
+        "encode" : "CP1255" , 
+        "query": {
+           "movie": "/subtitles/movie/{query}.json",
+          "tvshow": "/subtitles/series/{query}/manifest.json"       
+        },
+        "use": true
       }
-     
+      
     ]
     
   }
