@@ -48,7 +48,7 @@
       },
       {
         "name": "TLED2",
-        "link": "https://noamin25-aiostreams.elfhosted.com/stremio/a9b22ed7-e337-4471-9480-a66f64f3941b/eyJpdiI6Iit0WnYwR2dyYWRzZFQ1V0VPdlVXWmc9PSIsImVuY3J5cHRlZCI6IjdmNVd4VGpaVS92WDdzWVU5Z0pmVVZ4R3NsUm5XSFQwREwveW5BMnJTTUk9IiwidHlwZSI6ImFpb0VuY3J5cHQifQ/",
+        "link": "https:://jackettio.elfhosted.com/eyJtYXhUb3JyZW50cyI6OCwicHJpb3RpemVQYWNrVG9ycmVudHMiOjIsImV4Y2x1ZGVLZXl3b3JkcyI6W10sImRlYnJpZElkIjoicmVhbGRlYnJpZCIsImhpZGVVbmNhY2hlZCI6dHJ1ZSwic29ydENhY2hlZCI6W1sic2l6ZSIsdHJ1ZV1dLCJzb3J0VW5jYWNoZWQiOltbInNlZWRlcnMiLHRydWVdXSwiZm9yY2VDYWNoZU5leHRFcGlzb2RlIjpmYWxzZSwicHJpb3RpemVMYW5ndWFnZXMiOlsiZW5nbGlzaCJdLCJpbmRleGVyVGltZW91dFNlYyI6NjAsIm1ldGFMYW5ndWFnZSI6IiIsImVuYWJsZU1lZGlhRmxvdyI6dHJ1ZSwibWVkaWFmbG93UHJveHlVcmwiOiJodHRwczovL25vYW1pbjI1LW1lZGlhZmxvdy1wcm94eS5lbGZob3N0ZWQuY29tLyIsIm1lZGlhZmxvd0FwaVBhc3N3b3JkIjoiTUNtYzIwMjUiLCJtZWRpYWZsb3dQdWJsaWNJcCI6IiIsInVzZVN0cmVtVGhydSI6dHJ1ZSwic3RyZW10aHJ1VXJsIjoiaHR0cDovL2VsZmhvc3RlZC1pbnRlcm5hbC5zdHJlbXRocnUiLCJxdWFsaXRpZXMiOls3MjAsMTA4MCwyMTYwXSwiaW5kZXhlcnMiOlsiZXp0diIsInRoZXBpcmF0ZWJheSIsInl0cyJdLCJkZWJyaWRBcGlLZXkiOiJCWkVaM1A2Uk5SSE9SVFhMTjVPTzZEUVdVUzdCUFVVUEJCSlRKUFhGNUpJTFo2R09LUkFBIn0=/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
