@@ -37,9 +37,10 @@
         },
         "use": false
       },
-            {
+            
+      {
         "name": "TLED",
-        "link": "https://torrentio.strem.fun/easydebrid=n3cgfuzhg9ptzbss/",
+        "link": "https://jackettio.elfhosted.com/eyJtYXhUb3JyZW50cyI6OCwicHJpb3RpemVQYWNrVG9ycmVudHMiOjIsImV4Y2x1ZGVLZXl3b3JkcyI6W10sImRlYnJpZElkIjoicmVhbGRlYnJpZCIsImhpZGVVbmNhY2hlZCI6dHJ1ZSwic29ydENhY2hlZCI6W1sic2l6ZSIsdHJ1ZV1dLCJzb3J0VW5jYWNoZWQiOltbInNlZWRlcnMiLHRydWVdXSwiZm9yY2VDYWNoZU5leHRFcGlzb2RlIjpmYWxzZSwicHJpb3RpemVMYW5ndWFnZXMiOlsiZW5nbGlzaCJdLCJpbmRleGVyVGltZW91dFNlYyI6NjAsIm1ldGFMYW5ndWFnZSI6IiIsImVuYWJsZU1lZGlhRmxvdyI6dHJ1ZSwibWVkaWFmbG93UHJveHlVcmwiOiJodHRwczovL25vYW1pbjI1LW1lZGlhZmxvdy1wcm94eS5lbGZob3N0ZWQuY29tLyIsIm1lZGlhZmxvd0FwaVBhc3N3b3JkIjoiTUNtYzIwMjUiLCJtZWRpYWZsb3dQdWJsaWNJcCI6IiIsInVzZVN0cmVtVGhydSI6dHJ1ZSwic3RyZW10aHJ1VXJsIjoiaHR0cDovL2VsZmhvc3RlZC1pbnRlcm5hbC5zdHJlbXRocnUiLCJxdWFsaXRpZXMiOls3MjAsMTA4MCwyMTYwXSwiaW5kZXhlcnMiOlsiZXp0diIsInRoZXBpcmF0ZWJheSIsInl0cyJdLCJkZWJyaWRBcGlLZXkiOiJCWkVaM1A2Uk5SSE9SVFhMTjVPTzZEUVdVUzdCUFVVUEJCSlRKUFhGNUpJTFo2R09LUkFBIn0=/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
@@ -48,7 +49,16 @@
       },
       {
         "name": "TLED2",
-        "link": "https://jackettio.elfhosted.com/eyJtYXhUb3JyZW50cyI6OCwicHJpb3RpemVQYWNrVG9ycmVudHMiOjIsImV4Y2x1ZGVLZXl3b3JkcyI6W10sImRlYnJpZElkIjoicmVhbGRlYnJpZCIsImhpZGVVbmNhY2hlZCI6dHJ1ZSwic29ydENhY2hlZCI6W1sic2l6ZSIsdHJ1ZV1dLCJzb3J0VW5jYWNoZWQiOltbInNlZWRlcnMiLHRydWVdXSwiZm9yY2VDYWNoZU5leHRFcGlzb2RlIjpmYWxzZSwicHJpb3RpemVMYW5ndWFnZXMiOlsiZW5nbGlzaCJdLCJpbmRleGVyVGltZW91dFNlYyI6NjAsIm1ldGFMYW5ndWFnZSI6IiIsImVuYWJsZU1lZGlhRmxvdyI6dHJ1ZSwibWVkaWFmbG93UHJveHlVcmwiOiJodHRwczovL25vYW1pbjI1LW1lZGlhZmxvdy1wcm94eS5lbGZob3N0ZWQuY29tLyIsIm1lZGlhZmxvd0FwaVBhc3N3b3JkIjoiTUNtYzIwMjUiLCJtZWRpYWZsb3dQdWJsaWNJcCI6IiIsInVzZVN0cmVtVGhydSI6dHJ1ZSwic3RyZW10aHJ1VXJsIjoiaHR0cDovL2VsZmhvc3RlZC1pbnRlcm5hbC5zdHJlbXRocnUiLCJxdWFsaXRpZXMiOls3MjAsMTA4MCwyMTYwXSwiaW5kZXhlcnMiOlsiZXp0diIsInRoZXBpcmF0ZWJheSIsInl0cyJdLCJkZWJyaWRBcGlLZXkiOiJCWkVaM1A2Uk5SSE9SVFhMTjVPTzZEUVdVUzdCUFVVUEJCSlRKUFhGNUpJTFo2R09LUkFBIn0=/",
+        "link": "https://mediafusion.elfhosted.com/D-voUXXKiHAtywGy3SpwIzYNmEAa_y3eRZeFAYiMgno_84_jA8W79aXeJkFzfnqUbuuL2qdQ1ECMk791py4ncQNqc68x65hmxZuHPZC5lIv-S82f154M4fwNgSM-iRQOP22Jax1pjpVwNLCdHWOF1ZSmzV69Vx7M3pIzEijATAyCi579OY5_QCFeDs_quwr4HcOyQc7LARkzx7pC9SPHtshNvmzqJNSrlw4E7YIrJFySeRnVnXGj2Dzsx52_3iMjDuoKjIa40lIOnJxsWkt4FVsKOdUFy73T4NI0UU0cNgegg/",
+        "query": {
+          "movie": "/stream/movie/{query}.json",
+          "tvshow": "/stream/series/{query}.json"
+        },
+        "use": true
+      },
+      {
+        "name": "TLED3",
+        "link": "https://torrentio.strem.fun/easydebrid=n3cgfuzhg9ptzbss/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
