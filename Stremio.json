@@ -8,7 +8,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "ramondev",
@@ -17,7 +18,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "nuvioaddon",
@@ -26,7 +28,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "stremify",
@@ -35,7 +38,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
             
       {
@@ -45,7 +49,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": true
+        "use": true,
+        "limit" : 10
       },
       {
         "name": "MDFUS",
@@ -54,7 +59,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": true
+        "use": true,
+        "limit" : 10
       },
       {
         "name": "TLED3",
@@ -63,7 +69,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": true
+        "use": true,
+        "limit" : 10
       }
     ],
     "Torrent": [
@@ -74,7 +81,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "mediafusion",
@@ -83,7 +91,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "peerflix",
@@ -92,7 +101,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "torrentio-sh",
@@ -101,7 +111,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "comet",
@@ -110,7 +121,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "Torrentio",
@@ -119,7 +131,8 @@
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "dmm",
@@ -128,7 +141,8 @@
           "movie": "/?imdbid={query}",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "MediaFusion",
@@ -137,7 +151,8 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "KnightCrawler",
@@ -146,7 +161,8 @@
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "torrentsCSV",
@@ -155,7 +171,8 @@
           "movie": "/search?q={query}&size=100",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "PirateBay",
@@ -164,7 +181,8 @@
           "movie": "/q.php?q={query}&cat=211",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "BitMagnet",
@@ -173,7 +191,8 @@
           "movie": "/?t=search&q={query}&cat=2045",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "=CloudTorrents",
@@ -182,7 +201,8 @@
           "movie": "/search?query={query}&torrent_type=5&ordering=-size&offset=0",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "RarBg",
@@ -191,7 +211,8 @@
           "movie": "/get-posts/category:movies:order:-s:keywords:{query}?page=1",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       },
       {
         "name": "Nyaa",
@@ -200,7 +221,8 @@
           "movie": "/?f=0&c=1_0&q={query}&s=size&o=desc&p=1",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false
+        "use": false,
+        "limit" : 10
       }
     ],
     "Subtitle": [
