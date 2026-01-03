@@ -54,7 +54,7 @@
       },
       {
         "name": "MDFUS",
-        "link": "https://mediafusion.elfhosted.com/D-voUXXKiHAtywGy3SpwIzYNmEAa_y3eRZeFAYiMgno_84_jA8W79aXeJkFzfnqUbuuL2qdQ1ECMk791py4ncQNqc68x65hmxZuHPZC5lIv-S82f154M4fwNgSM-iRQOP22Jax1pjpVwNLCdHWOF1ZSmzV69Vx7M3pIzEijATAyCi579OY5_QCFeDs_quwr4HcOyQc7LARkzx7pC9SPHtshNvmzqJNSrlw4E7YIrJFySeRnVnXGj2Dzsx52_3iMjDuoKjIa40lIOnJxsWkt4FVsKOdUFy73T4NI0UU0cNgegg/",
+        "link": "https://aiostreams.elfhosted.com/stremio/bc8f77a5-3f63-40c2-9ce5-37835a0d4059/eyJpIjoid3hlS1pJeS9GeU1uTXArVmlpai9tdz09IiwiZSI6Ii9uQ0VWQldOOG11c205a21XclNDdkliR0RxbDAzZng4NzkxU1ZOTW11ZFE9IiwidCI6ImEifQ/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
