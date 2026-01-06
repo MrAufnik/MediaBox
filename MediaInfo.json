@@ -101,12 +101,12 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8" },
 "26" :{"name" :"האח הגדול" ,"show" :false , "force": true, "stream": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8" },
 "27" :{"name" :"חדשות i24" ,"show" :true , "force": true, "stream": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8" },
 "33" :{"name" :"כאן33 ערבית" ,"show" :true , "force": true, "stream": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8" },
-"50" :{"name" :"וואלה" ,"show" :true , "force": true, "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8" },
+"50" :{"name" :"וואלה" ,"show" :false , "force": true, "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8" },
 "66" :{"name" :"ערוץ הקבלה" ,"show" :false , "force": true, "stream": "https://edge2.il.kab.tv/live/tv66-heb-high/chunks.m3u8" },
 "97" :{"name" :"הידברות" ,"show" :true , "force": true, "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8" },
 "99" :{"name" :"99-כנסת" ,"show" :true , "force": true, "stream": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8" },
 "09" :{"name" :"9 רוסית" ,"show" :true , "force": false, "stream": "https://cdntv.online/high/vcbkpd63uh/781" },
-"05" :{"name" :"ספורט 5" ,"show" :true , "force": true, "stream": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8" }
+"05" :{"name" :"ספורט 5" ,"show" :false , "force": true, "stream": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8" }
 
 }
 
