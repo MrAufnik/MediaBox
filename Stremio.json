@@ -54,7 +54,7 @@
       },
       {
         "name": "MDFUS",
-        "link": "https://aiostreams.elfhosted.com/stremio/bc8f77a5-3f63-40c2-9ce5-37835a0d4059/eyJpIjoid3hlS1pJeS9GeU1uTXArVmlpai9tdz09IiwiZSI6Ii9uQ0VWQldOOG11c205a21XclNDdkliR0RxbDAzZng4NzkxU1ZOTW11ZFE9IiwidCI6ImEifQ/",
+        "link": "mediafusion.elfhosted.com/D-ZPMc28nSWWnbhrkAI3aE_fuzxooOne0J_qKp_nU2oe8_O5IfoRNaNyWu9PYruVL6nlVwmNqKtwnHASXqJsu3IxQsJQ52u7jvWffrArsk-NEZsaJqId5GmxTqAPcYy_o94a8YnCwDNxLQYoslHRXktKLuKG3XXW881r-7y6p2TjoAhEzzLR5N4KOMTj5NL8mn3blPQEdDtCUtDGgmbFBqw9Jdw4_GacTaCV9GtYOLOP4FjsWPoYTN5Xxm6gRFSQjrOUD55B_n7UsXC23l46RUJYd2VkEq5_V26Xwrz2PzynyiBGfmah9h5IwvuPEzkmup9JJy3KgDZ69Xyw-abzlCnRzPbm-4roDB1lmaIWbDObeb2XJPkkDm6Hh55SgV4eXuPf6vg9vYQNGhdoiUsXI9bB4taQpKyk3gOADBuNAw0hPKWxSv2QqbVrlIB4ODaz5w/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
