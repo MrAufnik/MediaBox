@@ -54,7 +54,7 @@
       },
       {
         "name": "MDFUS",
-        "link": "mediafusion.elfhosted.com/D-ZPMc28nSWWnbhrkAI3aE_fuzxooOne0J_qKp_nU2oe8_O5IfoRNaNyWu9PYruVL6nlVwmNqKtwnHASXqJsu3IxQsJQ52u7jvWffrArsk-NEZsaJqId5GmxTqAPcYy_o94a8YnCwDNxLQYoslHRXktKLuKG3XXW881r-7y6p2TjoAhEzzLR5N4KOMTj5NL8mn3blPQEdDtCUtDGgmbFBqw9Jdw4_GacTaCV9GtYOLOP4FjsWPoYTN5Xxm6gRFSQjrOUD55B_n7UsXC23l46RUJYd2VkEq5_V26Xwrz2PzynyiBGfmah9h5IwvuPEzkmup9JJy3KgDZ69Xyw-abzlCnRzPbm-4roDB1lmaIWbDObeb2XJPkkDm6Hh55SgV4eXuPf6vg9vYQNGhdoiUsXI9bB4taQpKyk3gOADBuNAw0hPKWxSv2QqbVrlIB4ODaz5w/",
+        "link": "https://mediafusion.elfhosted.com/D-ZPMc28nSWWnbhrkAI3aE_fuzxooOne0J_qKp_nU2oe8_O5IfoRNaNyWu9PYruVL6nlVwmNqKtwnHASXqJsu3IxQsJQ52u7jvWffrArsk-NEZsaJqId5GmxTqAPcYy_o94a8YnCwDNxLQYoslHRXktKLuKG3XXW881r-7y6p2TjoAhEzzLR5N4KOMTj5NL8mn3blPQEdDtCUtDGgmbFBqw9Jdw4_GacTaCV9GtYOLOP4FjsWPoYTN5Xxm6gRFSQjrOUD55B_n7UsXC23l46RUJYd2VkEq5_V26Xwrz2PzynyiBGfmah9h5IwvuPEzkmup9JJy3KgDZ69Xyw-abzlCnRzPbm-4roDB1lmaIWbDObeb2XJPkkDm6Hh55SgV4eXuPf6vg9vYQNGhdoiUsXI9bB4taQpKyk3gOADBuNAw0hPKWxSv2QqbVrlIB4ODaz5w/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
