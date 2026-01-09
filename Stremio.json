@@ -60,7 +60,7 @@
           "tvshow": "/stream/series/{query}.json"
         },
         "use": true,
-        "limit" : 10
+        "limit" : 100
       },
       {
         "name": "TLED3",
