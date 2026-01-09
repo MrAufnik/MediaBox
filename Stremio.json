@@ -60,7 +60,7 @@
           "tvshow": "/stream/series/{query}.json"
         },
         "use": true,
-        "limit" : 100
+        "limit" : 10
       },
       {
         "name": "TLED3",
@@ -70,7 +70,7 @@
           "tvshow": "/stream/series/{query}.json"
         },
         "use": true,
-        "limit" : 100
+        "limit" : 10
       }
     ],
     "Torrent": [
