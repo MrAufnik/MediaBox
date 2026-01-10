@@ -54,12 +54,12 @@
       },
       {
         "name": "MDFUS",
-        "link": "https://mediafusion.elfhosted.com/D-ZPMc28nSWWnbhrkAI3aE_fuzxooOne0J_qKp_nU2oe8_O5IfoRNaNyWu9PYruVL6nlVwmNqKtwnHASXqJsu3IxQsJQ52u7jvWffrArsk-NEZsaJqId5GmxTqAPcYy_o94a8YnCwDNxLQYoslHRXktKLuKG3XXW881r-7y6p2TjoAhEzzLR5N4KOMTj5NL8mn3blPQEdDtCUtDGgmbFBqw9Jdw4_GacTaCV9GtYOLOP4FjsWPoYTN5Xxm6gRFSQjrOUD55B_n7UsXC23l46RUJYd2VkEq5_V26Xwrz2PzynyiBGfmah9h5IwvuPEzkmup9JJy3KgDZ69Xyw-abzlCnRzPbm-4roDB1lmaIWbDObeb2XJPkkDm6Hh55SgV4eXuPf6vg9vYQNGhdoiUsXI9bB4taQpKyk3gOADBuNAw0hPKWxSv2QqbVrlIB4ODaz5w/",
+        "link": "https://mediafusion.elfhosted.com/D-S4RKbSD6JlfWRL-nYnqDocUvZn3RmrM6w3UaZ3TjU3zqijJP3y_GrqGAcG5xr2wNu0yODlYouSyzp3wzYJoimzoq4vFMSzTiYbxb4F-zyEwvM8zYMWPS-Drwng6fHj4tmTFZLq_4Bp5ie3Py_swmm36Xfck9q6knYjoeVPfqd9eiGWSfQWfrttzbLiMKQ8u56MXS0bX2mVz5RNrWIu_9AG2UsgaEvIGwpJWAWSGf7-GrVU_9ITu_ZPfLPEH2Uc-oowauGtrBAAtD1VCYCrn5RTACSpvac7St8e5dcTtBh8ECX1Fyvxbyh0MJNc5k52TKx3MRGoe8bWb-UGSo7Ows_FiFjrMbqYZO5PEWHZaTxJtBtH218ZRXso1E713WS7mQdVn5sEGaFBN2irnHGbLjTmTPXEKH4_YuMyPQh8XnjvHo2aA9ouipSboLwUa88LqaxsEUiFzWNCH9K316IobNCyYSNlfhA35uaOgR6DuywPkYXRkKZvd--jISqNvz5dta5pd_9mNqCrBEchoMMkvwgUKaeBoqhgredRYJQATQ3gU/",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
