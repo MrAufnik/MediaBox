@@ -284,7 +284,7 @@
            "movie": "/subtitles/movie/{query}.json",
           "tvshow": "/subtitles/series/{query}/manifest.json"       
         },
-        "use": true
+        "use": false
       }
       
     ]
