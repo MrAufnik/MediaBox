@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 radio="true" tvg-id="glglz" tvg-name="גלגלצ" tvg-logo="https://fm1.co.il/assets/stations/glglz.png" group-title="רדיו ישראלי",גלגלצ
+https://glzwizzlv.bynetcdn.com/glglz_mp3
+#EXTINF:-1 radio="true" tvg-id="galey-israel" tvg-name="גלי ישראל" tvg-logo="https://fm1.co.il/assets/stations/galey-israel.png" group-title="רדיו ישראלי",גלי ישראל
+https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="kan-88" tvg-name="כאן 88" tvg-logo="https://fm1.co.il/assets/stations/kan-88.png" group-title="רדיו ישראלי",כאן 88
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3
+#EXTINF:-1 radio="true" tvg-id="kan-b" tvg-name="כאן ב' (רשת ב')" tvg-logo="https://fm1.co.il/assets/stations/kan-b.png" group-title="רדיו ישראלי",כאן ב' (רשת ב')
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3
+#EXTINF:-1 radio="true" tvg-id="glz" tvg-name="גלי צה"ל" tvg-logo="https://fm1.co.il/assets/stations/glz.png" group-title="רדיו ישראלי",גלי צה"ל
+https://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1 radio="true" tvg-id="kan-music" tvg-name="כאן קול המוזיקה" tvg-logo="https://fm1.co.il/assets/stations/kan-music.png" group-title="רדיו ישראלי",כאן קול המוזיקה
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
+#EXTINF:-1 radio="true" tvg-id="kan-tarbut" tvg-name="כאן תרבות (רשת א')" tvg-logo="https://fm1.co.il/assets/stations/kan-tarbut.png" group-title="רדיו ישראלי",כאן תרבות (רשת א')
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3
+#EXTINF:-1 radio="true" tvg-id="kan-makan" tvg-name="כאן מכאן בערבית" tvg-logo="https://fm1.co.il/assets/stations/kan-makan.png" group-title="רדיו ישראלי",כאן מכאן בערבית
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3
+#EXTINF:-1 radio="true" tvg-id="glglz-sofshavua" tvg-name="גלגלצ סופשבוע רגוע" tvg-logo="https://fm1.co.il/assets/stations/glglz-sofshavua.png" group-title="רדיו ישראלי",גלגלצ סופשבוע רגוע
+https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3
+#EXTINF:-1 radio="true" tvg-id="90fm" tvg-name="רדיו תשעים 90FM" tvg-logo="https://fm1.co.il/assets/stations/90fm.png" group-title="רדיו אזורי",רדיו תשעים 90FM
+https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="91fm" tvg-name="רדיו לב המדינה 91FM" tvg-logo="https://fm1.co.il/assets/stations/91fm.png" group-title="רדיו אזורי",רדיו לב המדינה 91FM
+https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="96fm" tvg-name="רדיו קול רגע 96FM" tvg-logo="https://fm1.co.il/assets/stations/96fm.png" group-title="רדיו אזורי",רדיו קול רגע 96FM
+https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="radio-darom" tvg-name="רדיו דרום 97FM" tvg-logo="https://fm1.co.il/assets/stations/radio-darom.png" group-title="רדיו אזורי",רדיו דרום 97FM
+https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="eco99fm" tvg-name="רדיו אקו 99FM" tvg-logo="https://fm1.co.il/assets/stations/eco99fm.png" group-title="רדיו אזורי",רדיו אקו 99FM
+https://99.mediacast.co.il/99fm_aac
+#EXTINF:-1 radio="true" tvg-id="100fm" tvg-name="רדיוס 100FM" tvg-logo="https://fm1.co.il/assets/stations/100fm.png" group-title="רדיו אזורי",רדיוס 100FM
+https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="101fm" tvg-name="רדיו ירושלים 101FM" tvg-logo="https://fm1.co.il/assets/stations/101fm.png" group-title="רדיו אזורי",רדיו ירושלים 101FM
+https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="radio-darom-1015" tvg-name="רדיו דרום 101.5FM" tvg-logo="https://fm1.co.il/assets/stations/radio-darom-1015.png" group-title="רדיו אזורי",רדיו דרום 101.5FM
+https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="102fm" tvg-name="רדיו תל אביב 102FM" tvg-logo="https://fm1.co.il/assets/stations/102fm.png" group-title="רדיו אזורי",רדיו תל אביב 102FM
+https://102.livecdn.biz/102fm_aac
+#EXTINF:-1 radio="true" tvg-id="103fm" tvg-name="רדיו ללא הפסקה 103FM" tvg-logo="https://fm1.co.il/assets/stations/103fm.png" group-title="רדיו אזורי",רדיו ללא הפסקה 103FM
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="radio-haifa" tvg-name="רדיו חיפה 107.5FM" tvg-logo="https://fm1.co.il/assets/stations/radio-haifa.png" group-title="רדיו אזורי",רדיו חיפה 107.5FM
+https://1075.livecdn.biz/radiohaifa
+#EXTINF:-1 radio="true" tvg-id="93fm" tvg-name="רדיו קול חי 93FM" tvg-logo="https://fm1.co.il/assets/stations/93fm.png" group-title="רדיו דתי",רדיו קול חי 93FM
+https://media2.93fm.co.il/live-new
+#EXTINF:-1 radio="true" tvg-id="kol-barama" tvg-name="רדיו קול ברמה" tvg-logo="https://fm1.co.il/assets/stations/kol-barama.png" group-title="רדיו דתי",רדיו קול ברמה
+https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="inn" tvg-name="ערוץ 7" tvg-logo="https://fm1.co.il/assets/stations/inn.png" group-title="רדיו דתי",ערוץ 7
+https://radiolive.a7.org/a7live
+#EXTINF:-1 radio="true" tvg-id="kan-moreshet" tvg-name="כאן מורשת" tvg-logo="https://fm1.co.il/assets/stations/kan-moreshet.png" group-title="רדיו דתי",כאן מורשת
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3
+#EXTINF:-1 radio="true" tvg-id="radio-breslev" tvg-name="רדיו ברסלב" tvg-logo="https://fm1.co.il/assets/stations/radio-breslev.png" group-title="רדיו דתי",רדיו ברסלב
+https://securestreams6.autopo.st:2294/mp3
+#EXTINF:-1 radio="true" tvg-id="radio-2000" tvg-name="רדיו ערוץ 2000" tvg-logo="https://fm1.co.il/assets/stations/radio-2000.png" group-title="רדיו דתי",רדיו ערוץ 2000
+https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="idan-tshuva" tvg-name="רדיו עידן תשובה" tvg-logo="https://fm1.co.il/assets/stations/idan-tshuva.png" group-title="רדיו דתי",רדיו עידן תשובה
+https://live.ecast.co.il/stream/radioneto2
+#EXTINF:-1 radio="true" tvg-id="kabbalah-radio" tvg-name="רדיו קבלה" tvg-logo="https://fm1.co.il/assets/stations/kabbalah-radio.png" group-title="רדיו דתי",רדיו קבלה
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="toker" tvg-name="הרדיו של מנחם טוקר" tvg-logo="https://fm1.co.il/assets/stations/toker.png" group-title="רדיו דתי",הרדיו של מנחם טוקר
+https://broadcast.adpronet.com/radio/6060/radio.mp3
+#EXTINF:-1 radio="true" tvg-id="mizrahit-fm" tvg-name="רדיו נושמים מזרחית" tvg-logo="https://fm1.co.il/assets/stations/mizrahit-fm.png" group-title="רדיו מזרחית",רדיו נושמים מזרחית
+https://rs.mizrahit.fm:7777/;stream/1
+#EXTINF:-1 radio="true" tvg-id="glglz-med" tvg-name="גלגלצ ים תיכוני" tvg-logo="https://fm1.co.il/assets/stations/glglz-med.png" group-title="רדיו מזרחית",גלגלצ ים תיכוני
+https://glzwizzlv.bynetcdn.com/glglz_med_mp3
+#EXTINF:-1 radio="true" tvg-id="idan-mizrah" tvg-name="רדיו עידן המזרח" tvg-logo="https://fm1.co.il/assets/stations/idan-mizrah.png" group-title="רדיו מזרחית",רדיו עידן המזרח
+https://live.ecast.co.il/stream/radioneto1
+#EXTINF:-1 radio="true" tvg-id="radio-menta" tvg-name="רדיו מנטה" tvg-logo="https://fm1.co.il/assets/stations/radio-menta.png" group-title="רדיו מזרחית",רדיו מנטה
+https://menta-fm.co.il/radio/
+#EXTINF:-1 radio="true" tvg-id="radio-yasoo" tvg-name="רדיו יאסו" tvg-logo="https://fm1.co.il/assets/stations/radio-yasoo.png" group-title="רדיו מזרחית",רדיו יאסו
+https://liveradio.co.il/radioyasoo
+#EXTINF:-1 radio="true" tvg-id="diki-mizrahit" tvg-name="רדיו שירי דיכאון" tvg-logo="https://fm1.co.il/assets/stations/diki-mizrahit.png" group-title="רדיו מזרחית",רדיו שירי דיכאון
+https://diki.mediacast.co.il/diki
+#EXTINF:-1 radio="true" tvg-id="radio-beat" tvg-name="רדיו ביט" tvg-logo="https://fm1.co.il/assets/stations/radio-beat.png" group-title="רדיו אינטרנט",רדיו ביט
+http://www.radio-beat.com/server1
+#EXTINF:-1 radio="true" tvg-id="radioezorit" tvg-name="רדיו אזורית" tvg-logo="https://fm1.co.il/assets/stations/radioezorit.png" group-title="רדיו אינטרנט",רדיו אזורית
+http://wms01.video-streaming.co.il:8000/;stream/1
+#EXTINF:-1 radio="true" tvg-id="radiosol" tvg-name="רדיו סול" tvg-logo="https://fm1.co.il/assets/stations/radiosol.png" group-title="רדיו אינטרנט",רדיו סול
+https://radio.streamgates.net/stream/sol
+#EXTINF:-1 radio="true" tvg-id="beatfm" tvg-name="BeatFM" tvg-logo="https://fm1.co.il/assets/stations/beatfm.png" group-title="רדיו אינטרנט",BeatFM
+https://securestreams2.autopo.st:1242/live
+#EXTINF:-1 radio="true" tvg-id="radio-eol" tvg-name="רדיו מהות החיים" tvg-logo="https://fm1.co.il/assets/stations/radio-eol.png" group-title="רדיו אינטרנט",רדיו מהות החיים
+https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="kol-hayeladim" tvg-name="רדיו קול הילדים" tvg-logo="https://fm1.co.il/assets/stations/kol-hayeladim.png" group-title="רדיו אינטרנט",רדיו קול הילדים
+http://cast07.cdnwiz.com:8000/kol-hayeladim-mp3-128
+#EXTINF:-1 radio="true" tvg-id="mehiron" tvg-name="רדיו המחירון" tvg-logo="https://fm1.co.il/assets/stations/mehiron.png" group-title="רדיו אינטרנט",רדיו המחירון
+https://jointil.com/stream-reggae
+#EXTINF:-1 radio="true" tvg-id="radio-omemo" tvg-name="רדיו אוממו" tvg-logo="https://fm1.co.il/assets/stations/radio-omemo.png" group-title="רדיו אינטרנט",רדיו אוממו
+http://72.9.152.111:9994/;stream/1
+#EXTINF:-1 radio="true" tvg-id="anivoice" tvg-name="רדיו קול החיות" tvg-logo="https://fm1.co.il/assets/stations/anivoice.png" group-title="רדיו אינטרנט",רדיו קול החיות
+http://shoutcast.ilcast.com:8022/;stream.mp3
+#EXTINF:-1 radio="true" tvg-id="campus" tvg-name="קול הקמפוס" tvg-logo="https://fm1.co.il/assets/stations/campus.png" group-title="רדיו סטודנטים",קול הקמפוס
+http://212.29.254.129:7075/;stream/1
+#EXTINF:-1 radio="true" tvg-id="galilradio" tvg-name="רדיו קול הגליל העליון" tvg-logo="https://fm1.co.il/assets/stations/galilradio.png" group-title="רדיו סטודנטים",רדיו קול הגליל העליון
+https://radio.streamgates.net/stream/galil
+#EXTINF:-1 radio="true" tvg-id="1062fm" tvg-name="הרדיו הבינתחומי הרצליה" tvg-logo="https://fm1.co.il/assets/stations/1062fm.png" group-title="רדיו סטודנטים",הרדיו הבינתחומי הרצליה
+http://192.117.143.154:8000/idc123.mp3
+#EXTINF:-1 radio="true" tvg-id="kol-ramat-hasharon" tvg-name="קול רמת השרון" tvg-logo="https://fm1.co.il/assets/stations/kol-ramat-hasharon.png" group-title="רדיו סטודנטים",קול רמת השרון
+http://106fm.livecast.co.il:8123/;stream/1
+#EXTINF:-1 radio="true" tvg-id="kol-yizrael" tvg-name="רדיו קול יזרעאל" tvg-logo="https://fm1.co.il/assets/stations/kol-yizrael.png" group-title="רדיו סטודנטים",רדיו קול יזרעאל
+https://radio.streamgates.net/stream/yezreel
+#EXTINF:-1 radio="true" tvg-id="kolaher" tvg-name="רדיו קול אחר" tvg-logo="https://fm1.co.il/assets/stations/kolaher.png" group-title="רדיו סטודנטים",רדיו קול אחר
+http://radio-tv-audio.procast.co.il:8010/ariel106fm
+#EXTINF:-1 radio="true" tvg-id="oranim" tvg-name="רדיו אורנים" tvg-logo="https://fm1.co.il/assets/stations/oranim.png" group-title="רדיו סטודנטים",רדיו אורנים
+http://oranim.cdnwz.net/oranim
+#EXTINF:-1 radio="true" tvg-id="kan-gimel" tvg-name="כאן גימל (רשת ג')" tvg-logo="https://fm1.co.il/assets/stations/kan-gimel.png" group-title="מוזיקה ישראלית",כאן גימל (רשת ג')
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3
+#EXTINF:-1 radio="true" tvg-id="glglz-classicil" tvg-name="גלגלצ גל עברי" tvg-logo="https://fm1.co.il/assets/stations/glglz-classicil.png" group-title="מוזיקה ישראלית",גלגלצ גל עברי
+https://glzwizzlv.bynetcdn.com/glglz_classicil_mp3
+#EXTINF:-1 radio="true" tvg-id="israla" tvg-name="ישראל LA" tvg-logo="https://fm1.co.il/assets/stations/israla.png" group-title="מוזיקה ישראלית",ישראל LA
+http://209.105.232.220:8777/;stream/1
+#EXTINF:-1 radio="true" tvg-id="clickil" tvg-name="קליק ישראלי" tvg-logo="https://fm1.co.il/assets/stations/clickil.png" group-title="מוזיקה ישראלית",קליק ישראלי
+http://listen.clickfm.co.il/clickil
+#EXTINF:-1 radio="true" tvg-id="nostal" tvg-name="רדיו נוסטלגיה ישראלית" tvg-logo="https://fm1.co.il/assets/stations/nostal.png" group-title="מוזיקה ישראלית",רדיו נוסטלגיה ישראלית
+http://194.213.4.197:8000/;stream/1
+#EXTINF:-1 radio="true" tvg-id="80s" tvg-name="להיטי שנות ה-80" tvg-logo="https://fm1.co.il/assets/stations/80s.png" group-title="רדיו מהעולם",להיטי שנות ה-80
+https://listen.181fm.com/181-awesome80s_128k.mp3
+#EXTINF:-1 radio="true" tvg-id="70s" tvg-name="להיטי שנות ה-70" tvg-logo="https://fm1.co.il/assets/stations/70s.png" group-title="רדיו מהעולם",להיטי שנות ה-70
+https://listen.181fm.com/181-70s_128k.mp3
+#EXTINF:-1 radio="true" tvg-id="classicfm" tvg-name="Classic FM" tvg-logo="https://fm1.co.il/assets/stations/classicfm.png" group-title="רדיו מהעולם",Classic FM
+https://media-ice.musicradio.com/ClassicFMMP3
+#EXTINF:-1 radio="true" tvg-id="glglz-hits" tvg-name="גלגלצ להיטים חמים" tvg-logo="https://fm1.co.il/assets/stations/glglz-hits.png" group-title="רדיו מהעולם",גלגלצ להיטים חמים
+https://glzwizzlv.bynetcdn.com/glglz_hits_mp3
+#EXTINF:-1 radio="true" tvg-id="glglz-rock" tvg-name="גלגלצ רוק קלאסי" tvg-logo="https://fm1.co.il/assets/stations/glglz-rock.png" group-title="רדיו מהעולם",גלגלצ רוק קלאסי
+https://glzwizzlv.bynetcdn.com/glglz_rock_mp3
+#EXTINF:-1 radio="true" tvg-id="glglz-alt" tvg-name="גלגלצ עשורים" tvg-logo="https://fm1.co.il/assets/stations/glglz-alt.png" group-title="רדיו מהעולם",גלגלצ עשורים
+https://glzwizzlv.bynetcdn.com/glglz_alt_mp3
+#EXTINF:-1 radio="true" tvg-id="radiolove" tvg-name="רדיו שירי אהבה" tvg-logo="https://fm1.co.il/assets/stations/radiolove.png" group-title="רדיו מהעולם",רדיו שירי אהבה
+https://liveradio.co.il/radiolove
+#EXTINF:-1 radio="true" tvg-id="beatles" tvg-name="רדיו ביטלס" tvg-logo="https://fm1.co.il/assets/stations/beatles.png" group-title="רדיו מהעולם",רדיו ביטלס
+https://listen.181fm.com/181-beatles_128k.mp3
