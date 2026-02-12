@@ -2,14 +2,14 @@
   "update" :{
   "servers" :{
   "drop" : {
-  "dropVersion": "1.0.72",
+  "dropVersion": "1.0.73",
   "file"  : "aHR0cHM6Ly90aW55LmNjL21ib3hpbA==",
   "file2" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
   }
   ,
   "telegram" :{
-  "telegramVersion" : "1.0.72",
-  "file" : "44",
+  "telegramVersion" : "1.0.73",
+  "file" : "45",
   "main" : ""
  
   }
@@ -20,7 +20,7 @@
 <p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
 <phttps://tiny.cc/mboxsite   </p>
 <p>ואפשר גם קוד 31560 בדאונלודר</p>
-<p>23 VOD תיקונים</p>
+<p>12 VOD תיקונים</p>
 <p>שיפורים ותיקונים</p>
 <p>AI כתוביות</p>
 <p></p>
