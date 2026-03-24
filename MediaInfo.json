@@ -79,9 +79,9 @@ http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/ind
 
 "14" :{"name" :"עכשיו 14" ,"show" :true , "force": true, "stream": "
 #EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=ראשי ערוץ 14 HD,FRAME-RATE=25.000
-https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=גיבוי ערוץ 14,FRAME-RATE=25.000
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=גיבוי ערוץ 14,FRAME-RATE=25.000
+https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 "
 },
 
