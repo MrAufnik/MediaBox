@@ -63,8 +63,8 @@
         "limit" : 10
       },
       {
-        "name": "TLED3",
-        "link": "https://torrentio.strem.fun/easydebrid=n3cgfuzhg9ptzbss/",
+        "name": "Gradual",
+        "link": "https://gradual-netta-srdeveloper07-09ff90cf.koyeb.app/stremio/S3I5cic3I0SXGGfyRXm0hDNyiiKVdw4E",
         "query": {
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
