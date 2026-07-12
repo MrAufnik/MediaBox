@@ -87,7 +87,7 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
 "21" :{"name" :"ערוץ הקניות" ,"show" :false , "force": true, "stream": "https://shoppingil-rewriter.vidnt.com/index.m3u8" },
 
-"10" :{"name" :"כלכלה 10" ,"show" :true , "force": true, "stream": "https://n-121-3.il.cdn-redge.media/livedash/oil/calcala-live/live/channel10/live.livx?indexMode&dvr=10800000" },
+"10" :{"name" :"כלכלה 10" ,"show" :true , "force": true, "stream": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000" },
 
 "23" :{"name" :"חינוכית" ,"show" :true , "force": true, "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=חינוכית 23,FRAME-RATE=25.000
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&amp;fmp4" },
