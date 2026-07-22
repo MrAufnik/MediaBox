@@ -128,6 +128,8 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/play
   "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
 {"name" : "קומדי" , "source" : "MAKO" , 
   "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
+{"name" : "קומדי" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
 
   
 {"name" : "ערוץ קומדי" ,"stream" : "https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/comedy13.jpg" ,"text" : ""},
