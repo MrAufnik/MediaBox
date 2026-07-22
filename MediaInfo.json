@@ -126,9 +126,9 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/play
   "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/eretz12.jpg" ,"text" : "שידורים רציפים של ארץ נהדרת"},
 {"name" : "סברי מרנן" , "source" : "MAKO" , 
   "stream" : "https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
-{"name" : "קומדי" , "source" : "MAKO" , 
+{"name" : "free קומדי" , "source" : "MAKO" , 
   "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
-{"name" : "קומדי" , "source" : "MAKO" , 
+{"name" : "free דרמה" , "source" : "MAKO" , 
   "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/savrei12.jpg" ,"text" : ""},
 
   
