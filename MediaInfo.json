@@ -142,6 +142,145 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/play
 ]
 
 ,
+
+ "radio_channels": [
+    {
+      "tag": "glglz",
+      "epg": "glglz",
+      "name": "גלגלצ",
+      "description": "רדיו ישראלי",
+      "stream": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+      "image": "glglz",
+      "sort": 8000
+    },
+    {
+      "tag": "galey-israel",
+      "epg": "galey-israel",
+      "name": "גלי ישראל",
+      "description": "רדיו ישראלי",
+      "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "image": "galey-israel",
+      "sort": 8001
+    },
+    {
+      "tag": "kan-88",
+      "epg": "kan-88",
+      "name": "כאן 88",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+      "image": "kan-88",
+      "sort": 8002
+    },
+    {
+      "tag": "kan-b",
+      "epg": "kan-b",
+      "name": "כאן ב' (רשת ב')",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+      "image": "kan-b",
+      "sort": 8003
+    },
+    {
+      "tag": "glz",
+      "epg": "glz",
+      "name": "גלי צה\"ל",
+      "description": "רדיו ישראלי",
+      "stream": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+      "image": "glz",
+      "sort": 8004
+    },
+    {
+      "tag": "kan-music",
+      "epg": "kan-music",
+      "name": "כאן קול המוזיקה",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
+      "image": "kan-music",
+      "sort": 8005
+    },
+    {
+      "tag": "kan-tarbut",
+      "epg": "kan-tarbut",
+      "name": "כאן תרבות (רשת א')",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
+      "image": "kan-tarbut",
+      "sort": 8006
+    },
+    {
+      "tag": "kan-makan",
+      "epg": "kan-makan",
+      "name": "כאן מכאן בערבית",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3",
+      "image": "kan-makan",
+      "sort": 8007
+    },
+    {
+      "tag": "glglz-sofshavua",
+      "epg": "glglz-sofshavua",
+      "name": "גלגלצ סופשבוע רגוע",
+      "description": "רדיו ישראלי",
+      "stream": "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3",
+      "image": "glglz-sofshavua",
+      "sort": 8008
+    },
+    {
+      "tag": "90fm",
+      "epg": "90fm",
+      "name": "רדיו תשעים 90FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+      "image": "90fm",
+      "sort": 8009
+    },
+    {
+      "tag": "91fm",
+      "epg": "91fm",
+      "name": "רדיו לב המדינה 91FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "image": "91fm",
+      "sort": 8010
+    },
+    {
+      "tag": "96fm",
+      "epg": "96fm",
+      "name": "רדיו קול רגע 96FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "image": "96fm",
+      "sort": 8011
+    },
+    {
+      "tag": "radio-darom",
+      "epg": "radio-darom",
+      "name": "רדיו דרום 97FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+      "image": "radio-darom",
+      "sort": 8012
+    },
+    {
+      "tag": "eco99fm",
+      "epg": "eco99fm",
+      "name": "רדיו אקו 99FM",
+      "description": "רדיו אזורי",
+      "stream": "https://99.mediacast.co.il/99fm_aac",
+      "image": "eco99fm",
+      "sort": 8013
+    },
+    {
+      "tag": "100fm",
+      "epg": "100fm",
+      "name": "רדיוס 100FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+      "image": "100fm",
+      "sort": 8014
+    }
+  ]
+,
 "system_message" : { "time-date" : "27/07/23" ,"message" : "
 <pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
 <p> (: אוטוטו עדכון חדש </p>
