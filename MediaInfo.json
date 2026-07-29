@@ -68,8 +68,6 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=555,AVERAGE-BANDWIDTH=555,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 - גיבוי 3,FRAME-RATE=25.000
 https://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=444,AVERAGE-BANDWIDTH=444,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 - גיבוי 4,FRAME-RATE=25.000
-https://d2249b6f08tjt0.cloudfront.net/k12dvr/master.m3u8?b-in-range=0-1800
 #EXT-X-STREAM-INF:BANDWIDTH=333,AVERAGE-BANDWIDTH=333,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=קשת 12 - לקויי שמיעה,FRAME-RATE=25.000
 https://mako-streaming.akamaized.net//direct/hls/live/2035325/k12cc/index.m3u8
 " },
