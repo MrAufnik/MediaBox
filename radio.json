@@ -1,4 +1,4 @@
-[
+{"radio_channels" :[
   {
     "tag": "glglz",
     "epg": "glglz",
@@ -576,3 +576,4 @@
     "enabled": true
   }
 ]
+}
