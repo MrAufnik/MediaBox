@@ -1,0 +1,578 @@
+[
+  {
+    "tag": "glglz",
+    "epg": "glglz",
+    "name": "גלגלצ",
+    "description": "רדיו ישראלי",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz.png",
+    "enabled": true
+  },
+  {
+    "tag": "galey-israel",
+    "epg": "galey-israel",
+    "name": "גלי ישראל",
+    "description": "רדיו ישראלי",
+    "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/galey-israel.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-88",
+    "epg": "kan-88",
+    "name": "כאן 88",
+    "description": "רדיו ישראלי",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-88.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-b",
+    "epg": "kan-b",
+    "name": "כאן ב' (רשת ב')",
+    "description": "רדיו ישראלי",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-b.png",
+    "enabled": true
+  },
+  {
+    "tag": "glz",
+    "epg": "glz",
+    "name": "גלי צה",
+    "description": "רדיו ישראלי",
+    "stream": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+    "image": "https://fm1.co.il/assets/stations/glz.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-music",
+    "epg": "kan-music",
+    "name": "כאן קול המוזיקה",
+    "description": "רדיו ישראלי",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-music.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-tarbut",
+    "epg": "kan-tarbut",
+    "name": "כאן תרבות (רשת א')",
+    "description": "רדיו ישראלי",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-tarbut.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-makan",
+    "epg": "kan-makan",
+    "name": "כאן מכאן בערבית",
+    "description": "רדיו ישראלי",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-makan.png",
+    "enabled": true
+  },
+  {
+    "tag": "glglz-sofshavua",
+    "epg": "glglz-sofshavua",
+    "name": "גלגלצ סופשבוע רגוע",
+    "description": "רדיו ישראלי",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz-sofshavua.png",
+    "enabled": true
+  },
+  {
+    "tag": "90fm",
+    "epg": "90fm",
+    "name": "רדיו תשעים 90FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/90fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "91fm",
+    "epg": "91fm",
+    "name": "רדיו לב המדינה 91FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/91fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "96fm",
+    "epg": "96fm",
+    "name": "רדיו קול רגע 96FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/96fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-darom",
+    "epg": "radio-darom",
+    "name": "רדיו דרום 97FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/radio-darom.png",
+    "enabled": true
+  },
+  {
+    "tag": "eco99fm",
+    "epg": "eco99fm",
+    "name": "רדיו אקו 99FM",
+    "description": "רדיו אזורי",
+    "stream": "https://99.mediacast.co.il/99fm_aac",
+    "image": "https://fm1.co.il/assets/stations/eco99fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "100fm",
+    "epg": "100fm",
+    "name": "רדיוס 100FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/100fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "101fm",
+    "epg": "101fm",
+    "name": "רדיו ירושלים 101FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/101fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-darom-1015",
+    "epg": "radio-darom-1015",
+    "name": "רדיו דרום 101.5FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/radio-darom-1015.png",
+    "enabled": true
+  },
+  {
+    "tag": "102fm",
+    "epg": "102fm",
+    "name": "רדיו תל אביב 102FM",
+    "description": "רדיו אזורי",
+    "stream": "https://102.livecdn.biz/102fm_aac",
+    "image": "https://fm1.co.il/assets/stations/102fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "103fm",
+    "epg": "103fm",
+    "name": "רדיו ללא הפסקה 103FM",
+    "description": "רדיו אזורי",
+    "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/103fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-haifa",
+    "epg": "radio-haifa",
+    "name": "רדיו חיפה 107.5FM",
+    "description": "רדיו אזורי",
+    "stream": "https://1075.livecdn.biz/radiohaifa",
+    "image": "https://fm1.co.il/assets/stations/radio-haifa.png",
+    "enabled": true
+  },
+  {
+    "tag": "93fm",
+    "epg": "93fm",
+    "name": "רדיו קול חי 93FM",
+    "description": "רדיו דתי",
+    "stream": "https://media2.93fm.co.il/live-new",
+    "image": "https://fm1.co.il/assets/stations/93fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "kol-barama",
+    "epg": "kol-barama",
+    "name": "רדיו קול ברמה",
+    "description": "רדיו דתי",
+    "stream": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/kol-barama.png",
+    "enabled": true
+  },
+  {
+    "tag": "inn",
+    "epg": "inn",
+    "name": "ערוץ 7",
+    "description": "רדיו דתי",
+    "stream": "https://radiolive.a7.org/a7live",
+    "image": "https://fm1.co.il/assets/stations/inn.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-moreshet",
+    "epg": "kan-moreshet",
+    "name": "כאן מורשת",
+    "description": "רדיו דתי",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-moreshet.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-breslev",
+    "epg": "radio-breslev",
+    "name": "רדיו ברסלב",
+    "description": "רדיו דתי",
+    "stream": "https://securestreams6.autopo.st:2294/mp3",
+    "image": "https://fm1.co.il/assets/stations/radio-breslev.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-2000",
+    "epg": "radio-2000",
+    "name": "רדיו ערוץ 2000",
+    "description": "רדיו דתי",
+    "stream": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/radio-2000.png",
+    "enabled": true
+  },
+  {
+    "tag": "idan-tshuva",
+    "epg": "idan-tshuva",
+    "name": "רדיו עידן תשובה",
+    "description": "רדיו דתי",
+    "stream": "https://live.ecast.co.il/stream/radioneto2",
+    "image": "https://fm1.co.il/assets/stations/idan-tshuva.png",
+    "enabled": true
+  },
+  {
+    "tag": "kabbalah-radio",
+    "epg": "kabbalah-radio",
+    "name": "רדיו קבלה",
+    "description": "רדיו דתי",
+    "stream": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+    "image": "https://fm1.co.il/assets/stations/kabbalah-radio.png",
+    "enabled": true
+  },
+  {
+    "tag": "toker",
+    "epg": "toker",
+    "name": "הרדיו של מנחם טוקר",
+    "description": "רדיו דתי",
+    "stream": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+    "image": "https://fm1.co.il/assets/stations/toker.png",
+    "enabled": true
+  },
+  {
+    "tag": "mizrahit-fm",
+    "epg": "mizrahit-fm",
+    "name": "רדיו נושמים מזרחית",
+    "description": "רדיו מזרחית",
+    "stream": "https://rs.mizrahit.fm:7777/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/mizrahit-fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "glglz-med",
+    "epg": "glglz-med",
+    "name": "גלגלצ ים תיכוני",
+    "description": "רדיו מזרחית",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_med_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz-med.png",
+    "enabled": true
+  },
+  {
+    "tag": "idan-mizrah",
+    "epg": "idan-mizrah",
+    "name": "רדיו עידן המזרח",
+    "description": "רדיו מזרחית",
+    "stream": "https://live.ecast.co.il/stream/radioneto1",
+    "image": "https://fm1.co.il/assets/stations/idan-mizrah.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-menta",
+    "epg": "radio-menta",
+    "name": "רדיו מנטה",
+    "description": "רדיו מזרחית",
+    "stream": "https://menta-fm.co.il/radio/",
+    "image": "https://fm1.co.il/assets/stations/radio-menta.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-yasoo",
+    "epg": "radio-yasoo",
+    "name": "רדיו יאסו",
+    "description": "רדיו מזרחית",
+    "stream": "https://liveradio.co.il/radioyasoo",
+    "image": "https://fm1.co.il/assets/stations/radio-yasoo.png",
+    "enabled": true
+  },
+  {
+    "tag": "diki-mizrahit",
+    "epg": "diki-mizrahit",
+    "name": "רדיו שירי דיכאון",
+    "description": "רדיו מזרחית",
+    "stream": "https://diki.mediacast.co.il/diki",
+    "image": "https://fm1.co.il/assets/stations/diki-mizrahit.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-beat",
+    "epg": "radio-beat",
+    "name": "רדיו ביט",
+    "description": "רדיו אינטרנט",
+    "stream": "http://www.radio-beat.com/server1",
+    "image": "https://fm1.co.il/assets/stations/radio-beat.png",
+    "enabled": true
+  },
+  {
+    "tag": "radioezorit",
+    "epg": "radioezorit",
+    "name": "רדיו אזורית",
+    "description": "רדיו אינטרנט",
+    "stream": "http://wms01.video-streaming.co.il:8000/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/radioezorit.png",
+    "enabled": true
+  },
+  {
+    "tag": "radiosol",
+    "epg": "radiosol",
+    "name": "רדיו סול",
+    "description": "רדיו אינטרנט",
+    "stream": "https://radio.streamgates.net/stream/sol",
+    "image": "https://fm1.co.il/assets/stations/radiosol.png",
+    "enabled": true
+  },
+  {
+    "tag": "beatfm",
+    "epg": "beatfm",
+    "name": "BeatFM",
+    "description": "רדיו אינטרנט",
+    "stream": "https://securestreams2.autopo.st:1242/live",
+    "image": "https://fm1.co.il/assets/stations/beatfm.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-eol",
+    "epg": "radio-eol",
+    "name": "רדיו מהות החיים",
+    "description": "רדיו אינטרנט",
+    "stream": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+    "image": "https://fm1.co.il/assets/stations/radio-eol.png",
+    "enabled": true
+  },
+  {
+    "tag": "kol-hayeladim",
+    "epg": "kol-hayeladim",
+    "name": "רדיו קול הילדים",
+    "description": "רדיו אינטרנט",
+    "stream": "http://cast07.cdnwiz.com:8000/kol-hayeladim-mp3-128",
+    "image": "https://fm1.co.il/assets/stations/kol-hayeladim.png",
+    "enabled": true
+  },
+  {
+    "tag": "mehiron",
+    "epg": "mehiron",
+    "name": "רדיו המחירון",
+    "description": "רדיו אינטרנט",
+    "stream": "https://jointil.com/stream-reggae",
+    "image": "https://fm1.co.il/assets/stations/mehiron.png",
+    "enabled": true
+  },
+  {
+    "tag": "radio-omemo",
+    "epg": "radio-omemo",
+    "name": "רדיו אוממו",
+    "description": "רדיו אינטרנט",
+    "stream": "http://72.9.152.111:9994/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/radio-omemo.png",
+    "enabled": true
+  },
+  {
+    "tag": "anivoice",
+    "epg": "anivoice",
+    "name": "רדיו קול החיות",
+    "description": "רדיו אינטרנט",
+    "stream": "http://shoutcast.ilcast.com:8022/;stream.mp3",
+    "image": "https://fm1.co.il/assets/stations/anivoice.png",
+    "enabled": true
+  },
+  {
+    "tag": "campus",
+    "epg": "campus",
+    "name": "קול הקמפוס",
+    "description": "רדיו סטודנטים",
+    "stream": "http://212.29.254.129:7075/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/campus.png",
+    "enabled": true
+  },
+  {
+    "tag": "galilradio",
+    "epg": "galilradio",
+    "name": "רדיו קול הגליל העליון",
+    "description": "רדיו סטודנטים",
+    "stream": "https://radio.streamgates.net/stream/galil",
+    "image": "https://fm1.co.il/assets/stations/galilradio.png",
+    "enabled": true
+  },
+  {
+    "tag": "1062fm",
+    "epg": "1062fm",
+    "name": "הרדיו הבינתחומי הרצליה",
+    "description": "רדיו סטודנטים",
+    "stream": "http://192.117.143.154:8000/idc123.mp3",
+    "image": "https://fm1.co.il/assets/stations/1062fm.png",
+    "enabled": true
+  },
+  {
+    "tag": "kol-ramat-hasharon",
+    "epg": "kol-ramat-hasharon",
+    "name": "קול רמת השרון",
+    "description": "רדיו סטודנטים",
+    "stream": "http://106fm.livecast.co.il:8123/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/kol-ramat-hasharon.png",
+    "enabled": true
+  },
+  {
+    "tag": "kol-yizrael",
+    "epg": "kol-yizrael",
+    "name": "רדיו קול יזרעאל",
+    "description": "רדיו סטודנטים",
+    "stream": "https://radio.streamgates.net/stream/yezreel",
+    "image": "https://fm1.co.il/assets/stations/kol-yizrael.png",
+    "enabled": true
+  },
+  {
+    "tag": "kolaher",
+    "epg": "kolaher",
+    "name": "רדיו קול אחר",
+    "description": "רדיו סטודנטים",
+    "stream": "http://radio-tv-audio.procast.co.il:8010/ariel106fm",
+    "image": "https://fm1.co.il/assets/stations/kolaher.png",
+    "enabled": true
+  },
+  {
+    "tag": "oranim",
+    "epg": "oranim",
+    "name": "רדיו אורנים",
+    "description": "רדיו סטודנטים",
+    "stream": "http://oranim.cdnwz.net/oranim",
+    "image": "https://fm1.co.il/assets/stations/oranim.png",
+    "enabled": true
+  },
+  {
+    "tag": "kan-gimel",
+    "epg": "kan-gimel",
+    "name": "כאן גימל (רשת ג')",
+    "description": "מוזיקה ישראלית",
+    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
+    "image": "https://fm1.co.il/assets/stations/kan-gimel.png",
+    "enabled": true
+  },
+  {
+    "tag": "glglz-classicil",
+    "epg": "glglz-classicil",
+    "name": "גלגלצ גל עברי",
+    "description": "מוזיקה ישראלית",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_classicil_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz-classicil.png",
+    "enabled": true
+  },
+  {
+    "tag": "israla",
+    "epg": "israla",
+    "name": "ישראל LA",
+    "description": "מוזיקה ישראלית",
+    "stream": "http://209.105.232.220:8777/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/israla.png",
+    "enabled": true
+  },
+  {
+    "tag": "clickil",
+    "epg": "clickil",
+    "name": "קליק ישראלי",
+    "description": "מוזיקה ישראלית",
+    "stream": "http://listen.clickfm.co.il/clickil",
+    "image": "https://fm1.co.il/assets/stations/clickil.png",
+    "enabled": true
+  },
+  {
+    "tag": "nostal",
+    "epg": "nostal",
+    "name": "רדיו נוסטלגיה ישראלית",
+    "description": "מוזיקה ישראלית",
+    "stream": "http://194.213.4.197:8000/;stream/1",
+    "image": "https://fm1.co.il/assets/stations/nostal.png",
+    "enabled": true
+  },
+  {
+    "tag": "80s",
+    "epg": "80s",
+    "name": "להיטי שנות ה-80",
+    "description": "רדיו מהעולם",
+    "stream": "https://listen.181fm.com/181-awesome80s_128k.mp3",
+    "image": "https://fm1.co.il/assets/stations/80s.png",
+    "enabled": true
+  },
+  {
+    "tag": "70s",
+    "epg": "70s",
+    "name": "להיטי שנות ה-70",
+    "description": "רדיו מהעולם",
+    "stream": "https://listen.181fm.com/181-70s_128k.mp3",
+    "image": "https://fm1.co.il/assets/stations/70s.png",
+    "enabled": true
+  },
+  {
+    "tag": "classicfm",
+    "epg": "classicfm",
+    "name": "Classic FM",
+    "description": "רדיו מהעולם",
+    "stream": "https://media-ice.musicradio.com/ClassicFMMP3",
+    "image": "https://fm1.co.il/assets/stations/classicfm.png",
+    "enabled": true
+  },
+  {
+    "tag": "glglz-hits",
+    "epg": "glglz-hits",
+    "name": "גלגלצ להיטים חמים",
+    "description": "רדיו מהעולם",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_hits_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz-hits.png",
+    "enabled": true
+  },
+  {
+    "tag": "glglz-rock",
+    "epg": "glglz-rock",
+    "name": "גלגלצ רוק קלאסי",
+    "description": "רדיו מהעולם",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz-rock.png",
+    "enabled": true
+  },
+  {
+    "tag": "glglz-alt",
+    "epg": "glglz-alt",
+    "name": "גלגלצ עשורים",
+    "description": "רדיו מהעולם",
+    "stream": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3",
+    "image": "https://fm1.co.il/assets/stations/glglz-alt.png",
+    "enabled": true
+  },
+  {
+    "tag": "radiolove",
+    "epg": "radiolove",
+    "name": "רדיו שירי אהבה",
+    "description": "רדיו מהעולם",
+    "stream": "https://liveradio.co.il/radiolove",
+    "image": "https://fm1.co.il/assets/stations/radiolove.png",
+    "enabled": true
+  },
+  {
+    "tag": "beatles",
+    "epg": "beatles",
+    "name": "רדיו ביטלס",
+    "description": "רדיו מהעולם",
+    "stream": "https://listen.181fm.com/181-beatles_128k.mp3",
+    "image": "https://fm1.co.il/assets/stations/beatles.png",
+    "enabled": true
+  }
+]
