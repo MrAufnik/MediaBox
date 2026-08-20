@@ -105,29 +105,7 @@
     ]
   },
 
-  "12x": {
-    "name": "קשת 12",
-    "epg": "12",
-    "image": "keshet",
-    "show": true,
-    "source": "MAKO",
-    "stream": [
-      {
-        "name": "קשת 12 HD",
-        "url": "https://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8"
-      },
-      {
-        "name": "קשת 12 DVR",
-        "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8"
-      },
-      {
-        "name": "קשת 12",
-        "url": "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8"
-      }
-    ]
-  },
-
-  "13": {
+   "13": {
     "name": "רשת 13",
     "epg": "yes/Channel-13-HD",
     "image": "tv13",
@@ -169,18 +147,7 @@
     ]
   },
 
-  "21": {
-    "name": "ערוץ הקניות",
-    "epg": "21",
-    "image": "",
-    "show": false,
-    "stream": [
-      {
-        "name": "ערוץ הקניות",
-        "url": "https://shoppingil-rewriter.vidnt.com/index.m3u8"
-      }
-    ]
-  },
+ 
 
   "10": {
     "name": "כלכלה 10",
@@ -218,19 +185,6 @@
       {
         "name": "מוזיקה 24",
         "url": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8"
-      }
-    ]
-  },
-
-  "25": {
-    "name": "ערוץ 16",
-    "epg": "16",
-    "image": "tv16",
-    "show": false,
-    "stream": [
-      {
-        "name": "ערוץ 16",
-        "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
       }
     ]
   },
@@ -286,20 +240,7 @@
       }
     ]
   },
-
-  "50": {
-    "name": "וואלה",
-    "epg": "walla",
-    "image": "walla_plus",
-    "show": false,
-    "stream": [
-      {
-        "name": "וואלה",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8"
-      }
-    ]
-  },
-
+   
   "66": {
     "name": "ערוץ הקבלה",
     "epg": "66",
