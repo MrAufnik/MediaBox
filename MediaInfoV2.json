@@ -192,7 +192,7 @@
   "16": {
     "name": "ערוץ 16",
     "epg": "16",
-    "image": "tv16",
+    "image": "https://github.com/mboxil/img/blob/main/16.jpg?raw=true",
     "show": true,
     "stream": [
       {
