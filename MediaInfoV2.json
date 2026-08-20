@@ -1,0 +1,393 @@
+{
+  "update" :{
+  "servers" :{
+  "drop" : {
+  "dropVersion": "1.0.75",
+  "file"  : "aHR0cHM6Ly90aW55LmNjL21ib3hpbA==",
+  "file2" : "aHR0cHM6Ly9iaXQubHkvMmtzWmV6TA=="
+  }
+  ,
+  "telegram" :{
+  "telegramVersion" : "1.0.75",
+  "file" : "47",
+  "main" : ""
+ 
+  }
+},
+
+"new_version_message" : "<pre><strong>ישנו עדכון חדש ,גרסה $$$$, יש לעדכן מהכפתור עדכון שלמטה.<br /></strong></pre>
+<p><strong><u>מה חדש</u></strong><u></u></p>
+<p>אם מכל סיבה שהיא לא הצלחתם לעדכן ,הורידו מהלינק  </p>
+<phttps://tiny.cc/mboxsite   </p>
+<p>ואפשר גם קוד 31560 בדאונלודר</p>
+<p>11 VOD תיקונים</p>
+<p>13 VOD תיקונים</p>
+<p>רדיו תיקונים</p>
+<p></p>
+<p>אפשרות לעבוד עם נגנים שונים ,שימו לב שגרסאות מסויימות של אנדרואיד עלולות להיות בעיות</p>
+<p>חפשו <span style=\"color: #3366ff;\">https://tiny.cc/mboxsite</span></p>
+</div>"
+}
+ , 
+ "groupers" :{
+ "users" : [
+ "566703811",
+ "362681467",
+ "1258975281"
+],
+"xusers" : [
+"-1258975281",
+"566703811",
+"426649303"
+]
+}
+,
+"playerBot" : {"channel":"" ,botID : "7149491589" ,botName : "@FileToLinkiBot" ,"regList" :["http://.+hash=.+"]}
+,
+"playerBot2" : {"channel":"https://t.me/missqueenbotx" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
+, 
+"playerBot1" : {"channel":"" ,botID : "573042256" ,botName : "@ChameleonTvBot" ,"regList" :["http[s]://.+/silver.seedhost.eu/.+"]}
+,
+  
+  
+"live": {
+  "11": {
+    "name": "כאן11",
+    "epg": "11",
+    "image": "kan",
+    "show": true,
+    "force": true,
+    "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?dvr=21600000\n#EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4\n#EXT-X-STREAM-INF:BANDWIDTH=555,AVERAGE-BANDWIDTH=555,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+  },
+
+  "12": {
+    "name": "קשת 12",
+    "epg": "12",
+    "image": "keshet",
+    "show": true,
+    "force": true,
+    "source": "MAKO",
+    "stream": "#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12\"\nhttps://mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 - גיבוי 1\"\nhttps://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=777,AVERAGE-BANDWIDTH=777,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 - גיבוי 2\"\nhttps://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 - גיבוי 3\"\nhttps://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=555,AVERAGE-BANDWIDTH=555,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 - גיבוי 4\"\nhttps://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=333,AVERAGE-BANDWIDTH=333,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 - לקויי שמיעה\"\nhttps://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index.m3u8"
+  },
+
+  "12x": {
+    "name": "קשת 12",
+    "epg": "12",
+    "image": "keshet",
+    "show": true,
+    "force": true,
+    "source": "MAKO",
+    "stream": "#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 HD\"\nhttps://mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12 DVR\"\nhttps://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=777,AVERAGE-BANDWIDTH=777,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"קשת 12\"\nhttps://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8"
+  },
+
+  "13": {
+    "name": "רשת 13",
+    "epg": "yes/Channel-13-HD",
+    "image": "tv13",
+    "show": true,
+    "force": true,
+    "stream": "#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"רשת 13 24H\"\nhttps://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"רשת 13 HD\"\nhttps://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions\n#EXT-X-STREAM-INF:BANDWIDTH=777,AVERAGE-BANDWIDTH=777,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"רשת 13 אתר\"\nhttps://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=666,AVERAGE-BANDWIDTH=666,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"אתר רשת 13 כתוביות\"\nhttp://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8"
+  },
+
+  "14": {
+    "name": "עכשיו 14",
+    "epg": "yes/Channel-14-HD",
+    "image": "tv14",
+    "show": true,
+    "force": true,
+    "stream": "#EXT-X-STREAM-INF:BANDWIDTH=999,AVERAGE-BANDWIDTH=999,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"ראשי ערוץ 14 HD\"\nhttps://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"גיבוי ערוץ 14\"\nhttps://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+  },
+
+  "21": {
+    "name": "ערוץ הקניות",
+    "epg": "21",
+    "image": "",
+    "show": false,
+    "force": true,
+    "stream": "https://shoppingil-rewriter.vidnt.com/index.m3u8"
+  },
+
+  "10": {
+    "name": "כלכלה 10",
+    "epg": "yes/Economics-10",
+    "image": "ch10",
+    "show": true,
+    "force": true,
+    "stream": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000"
+  },
+
+  "23": {
+    "name": "חינוכית",
+    "epg": "23",
+    "image": "tv23",
+    "show": true,
+    "force": true,
+    "stream": "#EXT-X-STREAM-INF:BANDWIDTH=888,AVERAGE-BANDWIDTH=888,CODECS=\"avc1.4d4028,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME=\"חינוכית 23\"\nhttps://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&fmp4"
+  },
+
+  "24": {
+    "name": "מוזיקה 24",
+    "epg": "24",
+    "image": "tv24",
+    "show": true,
+    "force": true,
+    "source": "MAKO",
+    "stream": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8"
+  },
+
+  "25": {
+    "name": "ערוץ 16",
+    "epg": "16",
+    "image": "tv16",
+    "show": false,
+    "force": true,
+    "stream": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+  },
+
+  "16": {
+    "name": "ערוץ 16",
+    "epg": "16",
+    "image": "tv16",
+    "show": true,
+    "force": true,
+    "stream": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+  },
+
+  "26": {
+    "name": "האח הגדול",
+    "epg": "26",
+    "image": "bb",
+    "show": false,
+    "force": true,
+    "stream": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_2.m3u8?_uid=068eefe3-f151-4cfa-8cbb-bd0b7c050992&rK=a5&_did=fe480ca1-c37f-a282-0f3d-dfa949a5c24c"
+  },
+
+  "27": {
+    "name": "חדשות i24",
+    "epg": "i24news",
+    "image": "i24",
+    "show": true,
+    "force": true,
+    "stream": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+  },
+
+  "33": {
+    "name": "כאן33 ערבית",
+    "epg": "33",
+    "image": "makan",
+    "show": true,
+    "force": true,
+    "stream": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&fmp4"
+  },
+
+  "50": {
+    "name": "וואלה",
+    "epg": "walla",
+    "image": "walla_plus",
+    "show": false,
+    "force": true,
+    "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8"
+  },
+
+  "66": {
+    "name": "ערוץ הקבלה",
+    "epg": "66",
+    "image": "kabbalah",
+    "show": false,
+    "force": true,
+    "stream": "http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+  },
+
+  "97": {
+    "name": "הידברות",
+    "epg": "97",
+    "image": "hidabroot",
+    "show": true,
+    "force": true,
+    "stream": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
+  },
+
+  "99": {
+    "name": "99-כנסת",
+    "epg": "99",
+    "image": "knesset",
+    "show": true,
+    "force": true,
+    "stream": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8"
+  },
+
+  "09": {
+    "name": "9 רוסית",
+    "epg": "9",
+    "image": "tv9",
+    "show": true,
+    "force": true,
+    "stream": "https://contact.gostreaming.tv/Con-11/index.m3u8"
+  },
+
+  "05": {
+    "name": "ספורט 5",
+    "epg": "5",
+    "image": "sport5",
+    "show": true,
+    "force": true,
+    "stream": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
+  }
+}
+
+,
+"extra_channels" :[
+{"name" : "ארץ נהדרת" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/erets/index.m3u8" ,"image" : "https://img.mako.co.il/2026/06/15/LinearChannel_Eretz_e.jpg" ,"text" : "שידורים רציפים של ארץ נהדרת"},
+{"name" : "סברי מרנן" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/savri/index.m3u8" ,"image" : "https://img.mako.co.il/2026/06/15/LinearChannel_Savri_e.jpg" ,"text" : ""},
+{"name" : "free קומדי" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/index.m3u8" ,"image" : "https://img.mako.co.il/2026/06/15/LinearChannel_Comedy_e.jpg" ,"text" : ""},
+{"name" : "free דרמה" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/index.m3u8" ,"image" : "https://img.mako.co.il/2026/06/15/LinearChannel_Drama_e.jpg" ,"text" : ""},
+{"name" : "free מוזיקה" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_music/index.m3u8" ,"image" : "https://img.mako.co.il/2026/06/15/LinearChannel_Music_e.jpg" ,"text" : ""},
+{"name" : "free אוכל" , "source" : "MAKO" , 
+  "stream" : "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_food/index.m3u8" ,"image" : "https://img.mako.co.il/2026/06/15/LinearChannel_food_e.jpg" ,"text" : ""},
+
+  
+{"name" : "ערוץ קומדי" ,"stream" : "https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/comedy13.jpg" ,"text" : ""},
+{"name" : "ערוץ ריאלטי" ,"stream" : "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/Reality13.jpg" ,"text" : ""},
+{"name" : "ערוץ הנופש" ,"stream" : "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8" ,"image" : "https://raw.githubusercontent.com/mboxil/img/refs/heads/main/vacation13.jpg" ,"text" : ""}
+]
+
+,
+   "radio_channels": [
+    {
+      "tag": "glglz",
+      "epg": "glglz",
+      "name": "גלגלצ",
+      "description": "רדיו ישראלי",
+      "stream": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+      "image": "https://fm1.co.il/assets/stations/glglz.png"
+    },
+    {
+      "tag": "galey-israel",
+      "epg": "galey-israel",
+      "name": "גלי ישראל",
+      "description": "רדיו ישראלי",
+      "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "image": "https://fm1.co.il/assets/stations/galey-israel.png"
+    },
+    {
+      "tag": "kan-88",
+      "epg": "kan-88",
+      "name": "כאן 88",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+      "image": "https://fm1.co.il/assets/stations/kan-88.png"
+    },
+    {
+      "tag": "kan-b",
+      "epg": "kan-b",
+      "name": "כאן ב' (רשת ב')",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+      "image": "https://fm1.co.il/assets/stations/kan-b.png"
+    },
+    {
+      "tag": "glz",
+      "epg": "glz",
+      "name": "גלי צה\"ל",
+      "description": "רדיו ישראלי",
+      "stream": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+      "image": "https://fm1.co.il/assets/stations/glz.png"
+    },
+    {
+      "tag": "kan-music",
+      "epg": "kan-music",
+      "name": "כאן קול המוזיקה",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
+      "image": "https://fm1.co.il/assets/stations/kan-music.png"
+    },
+    {
+      "tag": "kan-tarbut",
+      "epg": "kan-tarbut",
+      "name": "כאן תרבות (רשת א')",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3",
+      "image": "https://fm1.co.il/assets/stations/kan-tarbut.png"
+    },
+    {
+      "tag": "kan-makan",
+      "epg": "kan-makan",
+      "name": "כאן מכאן בערבית",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MAKAN.mp3",
+      "image": "https://fm1.co.il/assets/stations/kan-makan.png"
+    },
+    {
+      "tag": "glglz-sofshavua",
+      "epg": "glglz-sofshavua",
+      "name": "גלגלצ סופשבוע רגוע",
+      "description": "רדיו ישראלי",
+      "stream": "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3",
+      "image": "https://fm1.co.il/assets/stations/glglz-sofshavua.png"
+    },
+    {
+      "tag": "90fm",
+      "epg": "90fm",
+      "name": "רדיו תשעים 90FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+      "image": "https://fm1.co.il/assets/stations/90fm.png"
+    },
+    {
+      "tag": "91fm",
+      "epg": "91fm",
+      "name": "רדיו לב המדינה 91FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "image": "https://fm1.co.il/assets/stations/91fm.png"
+    },
+    {
+      "tag": "96fm",
+      "epg": "96fm",
+      "name": "רדיו קול רגע 96FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "image": "https://fm1.co.il/assets/stations/96fm.png"
+    },
+    {
+      "tag": "radio-darom",
+      "epg": "radio-darom",
+      "name": "רדיו דרום 97FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+      "image": "https://fm1.co.il/assets/stations/radio-darom.png"
+    },
+    {
+      "tag": "eco99fm",
+      "epg": "eco99fm",
+      "name": "רדיו אקו 99FM",
+      "description": "רדיו אזורי",
+      "stream": "https://99.mediacast.co.il/99fm_aac",
+      "image": "https://fm1.co.il/assets/stations/eco99fm.png"
+    },
+    {
+      "tag": "100fm",
+      "epg": "100fm",
+      "name": "רדיוס 100FM",
+      "description": "רדיו אזורי",
+      "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+      "image": "https://fm1.co.il/assets/stations/100fm.png"
+    }
+  ]
+,
+"system_message" : { "time-date" : "27/07/23" ,"message" : "
+<pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
+<p> (: אוטוטו עדכון חדש </p>
+<p> https://tiny.cc/mboxsite </p>
+<p> *** אין למדיה בוקס כרגע שום קבוצה *** </p>
+<p>חפשו <span style=\"color: #3366ff;\">https://tiny.cc/mboxsite</span></p>
+<p> :) או שבעצם אל תחפשו ... אנחנו כבר נמצא אתכם </p>
+</div>" 
+
+}
+}
