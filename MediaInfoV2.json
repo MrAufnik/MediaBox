@@ -49,8 +49,6 @@
 "playerBot1" : {"channel":"" ,botID : "573042256" ,botName : "@ChameleonTvBot" ,"regList" :["http[s]://.+/silver.seedhost.eu/.+"]}
 ,
   
-  
-"live": {
  "live": {
   "11": {
     "name": "כאן11",
