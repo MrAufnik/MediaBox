@@ -52,7 +52,7 @@
  "live": {
   "11": {
     "name": "כאן11",
-    "epg": "11",
+    "epg": "yes/Kan-HD",
     "image": "kan",
     "show": true,
     "stream": [
@@ -73,7 +73,7 @@
 
   "12": {
     "name": "קשת 12",
-    "epg": "12",
+    "epg": "yes/Keshet-HD",
     "image": "keshet",
     "show": true,
     "source": "MAKO",
@@ -107,7 +107,7 @@
 
    "13": {
     "name": "רשת 13",
-    "epg": "yes/Channel-13-HD",
+    "epg": "yes/Reshet-HD",
     "image": "tv13",
     "show": true,
     "stream": [
@@ -164,7 +164,7 @@
 
   "23": {
     "name": "חינוכית",
-    "epg": "23",
+    "epg": "yes/Kan-Educational",
     "image": "tv23",
     "show": true,
     "stream": [
@@ -177,7 +177,7 @@
 
   "24": {
     "name": "מוזיקה 24",
-    "epg": "24",
+    "epg": "yes/Music-24",
     "image": "tv24",
     "show": true,
     "source": "MAKO",
@@ -191,7 +191,7 @@
 
   "16": {
     "name": "ערוץ 16",
-    "epg": "16",
+    "epg": "cellcom/5415",
     "image": "https://github.com/mboxil/img/blob/main/16.jpg?raw=true",
     "show": true,
     "stream": [
@@ -204,7 +204,7 @@
 
   "26": {
     "name": "האח הגדול",
-    "epg": "26",
+    "epg": "yes/Big-Brother-HD",
     "image": "bb",
     "show": false,
     "stream": [
@@ -217,7 +217,7 @@
 
   "27": {
     "name": "חדשות i24",
-    "epg": "i24news",
+    "epg": "yes/i24-Hebrew",
     "image": "i24",
     "show": true,
     "stream": [
@@ -230,7 +230,7 @@
 
   "33": {
     "name": "כאן33 ערבית",
-    "epg": "33",
+    "epg": "yes/Makan",
     "image": "makan",
     "show": true,
     "stream": [
@@ -256,7 +256,7 @@
 
   "97": {
     "name": "הידברות",
-    "epg": "97",
+    "epg": "yes/Hidabroot",
     "image": "hidabroot",
     "show": true,
     "stream": [
@@ -282,7 +282,7 @@
 
   "09": {
     "name": "9 רוסית",
-    "epg": "9",
+    "epg": "yes/Israel-Plus-(9)",
     "image": "tv9",
     "show": true,
     "stream": [
@@ -295,7 +295,7 @@
 
   "05": {
     "name": "ספורט 5",
-    "epg": "5",
+    "epg": "yes/Sport-5-HD-(55)",
     "image": "sport5",
     "show": true,
     "stream": [
