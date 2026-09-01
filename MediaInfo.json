@@ -180,6 +180,14 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/play
       "image": "https://fm1.co.il/assets/stations/kan-b.png"
     },
     {
+      "tag": "kan-c",
+      "epg": "kan-c",
+      "name": "כאן גימל",
+      "description": "רדיו ישראלי",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
+      "image": "https://fm1.co.il/assets/stations/kan-gimel.png"
+    },
+    {
       "tag": "glz",
       "epg": "glz",
       "name": "גלי צה\"ל",
