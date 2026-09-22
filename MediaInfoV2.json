@@ -364,7 +364,7 @@
 ]
 
 ,
-   "radio_channels": $radio.json
+   "radio_channels": "$radio.json"
 ,
 "system_message" : { "time-date" : "27/07/23" ,"message" : "
 <pre><strong><b><u>- הודעת מערכת -</u></b><br /></strong></pre>
