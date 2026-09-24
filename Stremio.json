@@ -141,7 +141,7 @@
           "movie": "/?imdbid={query}",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -151,7 +151,7 @@
           "movie": "/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -161,7 +161,7 @@
           "movie": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -171,7 +171,7 @@
           "movie": "/search?q={query}&size=100",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -181,7 +181,7 @@
           "movie": "/q.php?q={query}&cat=211",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -191,7 +191,7 @@
           "movie": "/?t=search&q={query}&cat=2045",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -201,7 +201,7 @@
           "movie": "/search?query={query}&torrent_type=5&ordering=-size&offset=0",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -211,7 +211,7 @@
           "movie": "/get-posts/category:movies:order:-s:keywords:{query}?page=1",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       },
       {
@@ -221,7 +221,7 @@
           "movie": "/?f=0&c=1_0&q={query}&s=size&o=desc&p=1",
           "tvshow": "/stream/series/{query}.json"
         },
-        "use": false,
+        "use": true,
         "limit" : 10
       }
     ],
