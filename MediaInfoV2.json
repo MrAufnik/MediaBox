@@ -38,14 +38,7 @@
 "426649303"
 ]
 }
-,
-"playerBot" : {"channel":"" ,botID : "7149491589" ,botName : "@FileToLinkiBot" ,"regList" :["http://.+hash=.+"]}
-,
-"playerBot2" : {"channel":"https://t.me/missqueenbotx" ,botID : "6880395931" ,botName : "@FileStream_ibot" ,"regList" :["http[s]://.+/dl/.+"]}
-, 
-"playerBot1" : {"channel":"" ,botID : "573042256" ,botName : "@ChameleonTvBot" ,"regList" :["http[s]://.+/silver.seedhost.eu/.+"]}
-,
-  
+,  
  "live": {
   "11": {
     "name": "כאן11",
