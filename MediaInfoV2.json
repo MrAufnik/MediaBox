@@ -182,7 +182,7 @@
   "16": {
     "name": "ערוץ 16",
     "epg": "cellcom/5415",
-    "image": "https://github.com/mboxil/img/blob/main/16.jpg?raw=true",
+    "image": "ch16",
     "show": true,
     "stream": [
       {
