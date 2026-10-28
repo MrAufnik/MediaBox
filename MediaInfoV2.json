@@ -128,11 +128,15 @@
     "stream": [
       {
         "name": "ראשי ערוץ 14 HD",
-        "url": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
+        "url": "https://n-121-7.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "ראשי ערוץ 14",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
       },
       {
         "name": "גיבוי ערוץ 14",
-        "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+        "url": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
       }
     ]
   },
