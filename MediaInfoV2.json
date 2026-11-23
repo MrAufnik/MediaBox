@@ -42,7 +42,7 @@
  "live": {
   "11": {
     "name": "כאן11",
-    "epg": "yes/Kan-HD LL",
+    "epg": "yes/Kan-HD-LL",
     "image": "kan",
     "show": true,
     "stream": [
